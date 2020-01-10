@@ -1,0 +1,53 @@
+@import "reset.scss";
+@import "components.scss";
+
+
+// Including fonts
+// ============================================================================
+
+@font-face {
+    font-family: 'Object Sans';
+    src: url('assets/fonts/subset-ObjectSans-Regular.woff2') format('woff2'),
+        url('assets/fonts/subset-ObjectSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Object Sans';
+    src: url('assets/fonts/subset-ObjectSans-Bold.woff2') format('woff2'),
+        url('assets/fonts/subset-ObjectSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+// Basic
+// ============================================================================
+
+body {
+    padding-top: 108px;
+    background-color: $white;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Object Sans', sans-serif;
+
+    ::selection {
+        color: $white;
+        background-color: $black;
+    }
+}
+
+
+
+// Local typo
+// ============================================================================
+
+h1 {
+    color: $black;
+    @include desktop__48-bold;
+}
+
+@import "main-darkmode.scss";
+
+@import "header.scss";
+@import "footer.scss";

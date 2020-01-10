@@ -1,0 +1,142 @@
+
+// Colors
+// ============================================================================
+
+$black: #000007;
+$white: #FFFFFF;
+
+$black-op: rgba(0, 0, 7, .82);
+$white-op: rgba(255, 255, 255, .9);
+
+$light__grey-1: rgba(89, 89, 89, 0.15);
+$light__grey-2: rgba(89, 89, 89, 0.35);
+$light__grey-3: rgba(89, 89, 89, 0.70);
+$light__grey-4: #343434;
+
+$dark__grey-1: rgba(255, 255, 255, 0.25);
+$dark__grey-2: rgba(255, 255, 255, 0.35);
+$dark__grey-3: rgba(255, 255, 255, 0.65);
+$dark__grey-4: #DFDFDF;
+
+
+// Grid
+// ============================================================================
+
+.grid-container {
+    width:     100%;
+    max-width: 1440px;
+    margin:    auto;
+    padding:   0 60px;
+}
+
+
+// Text styles
+// ============================================================================
+
+@mixin desktop__48-bold {
+    font-weight: bold;
+    font-size:   48px;
+    line-height: 72px;
+}
+
+@mixin desktop__20-bold {
+    font-weight:    bold;
+    font-size:      20px;
+    line-height:    24px;
+    letter-spacing: 0.01em;
+}
+
+@mixin desktop__20-reg {
+    font-weight:    normal;
+    font-size:      20px;
+    line-height:    24px;
+    letter-spacing: 0.01em;
+}
+
+@mixin desktop__14-reg {
+    font-weight:    normal;
+    font-size:      14px;
+    line-height:    20px;
+    letter-spacing: 0.01em;
+}
+
+
+@mixin mobile__36-bold {
+    font-weight: bold;
+    font-size:   36px;
+    line-height: 48px;
+}
+
+@mixin mobile__18-bold {
+    font-weight:    bold;
+    font-size:      18px;
+    line-height:    24px;
+    letter-spacing: 0.01em;
+}
+
+@mixin mobile__18-reg {
+    font-weight:    normal;
+    font-size:      18px;
+    line-height:    24px;
+    letter-spacing: 0.01em;
+}
+
+@mixin mobile__13-reg {
+    font-weight:    normal;
+    font-size:      13px;
+    line-height:    18px;
+    letter-spacing: 0.01em;
+}
+
+
+// Other
+// ============================================================================
+
+hr {
+    width:   100%;
+    height:  1px;
+    margin:  20px auto;
+    padding: 0;
+    border:  0;
+}
+
+
+// Effects
+// ============================================================================
+
+@mixin light__card-hover-shadow {
+    box-shadow:
+        0px 2.76px 2.21px rgba(0, 0, 0, 0.020),
+        0px 6.65px 5.32px rgba(0, 0, 0, 0.030),
+        0px 12.52px 10.02px rgba(0, 0, 0, 0.035),
+        0px 22.33px 17.86px rgba(0, 0, 0, 0.041),
+        0px 41.77px 33.42px rgba(0, 0, 0, 0.050),
+        0px 100px 80px rgba(0, 0, 0, 0.070);
+}
+
+@mixin dark__card-hover-shadow {
+    box-shadow:
+        0px 40px 250px rgba(255, 255, 255, 0.3),
+        0px 2.76px 2.21px rgba(0, 0, 0, 0.020),
+        0px 6.65px 5.32px rgba(0, 0, 0, 0.030),
+        0px 12.52px 10.02px rgba(0, 0, 0, 0.035),
+        0px 22.33px 17.86px rgba(0, 0, 0, 0.041),
+        0px 41.77px 33.42px rgba(0, 0, 0, 0.050),
+        0px 100px 80px rgba(0, 0, 0, 0.070);
+}
+
+
+
+// ============================================================================
+// Mobile < 640
+// ============================================================================
+
+
+@media screen and (max-width: 639px) {
+    .grid-container {
+        width:     100%;
+        max-width: 1440px;
+        margin:    auto;
+        padding:   0 24px;
+    }
+}

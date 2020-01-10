@@ -1,0 +1,314 @@
+
+// ============================================================================
+// Desktop
+// ============================================================================
+
+header {
+    position: fixed;
+      top: 0;
+      left: 0;
+    width: 100%;
+    height: 128px;
+    padding: 60px 0 20px;
+    z-index: 901;
+
+    background-color: $white-op;
+    backdrop-filter: blur(20px);
+    transition: top .3s;
+    
+    .grid-container { display: flex }
+
+
+// Logo
+// ============================================================================
+
+    .logo-box {
+        width: 80px;
+
+        a {
+            display: block;
+            width: 59px;
+            height: 48px;
+
+            background: url(assets/images/logo-black.svg) 100%/cover no-repeat;
+            text-decoration: none;
+        }
+    }
+
+
+// Main navigation
+// ============================================================================
+
+    nav {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+
+        a {
+            position: relative;
+            display: block;
+            padding: 12px 20px;
+
+            color: $light__grey-4;
+            @include desktop__20-reg;
+            text-decoration: none;
+
+            &:after {
+                content:'';
+                position: absolute;
+                  left: 50%;
+                  right: 50%;
+                  bottom: 8px;
+                width: 0;
+                height: 1px;
+
+                background-color: $light__grey-4;
+                transition: width .3s, left .3s, right .3s;
+            }
+
+            &:hover:after {
+                left: 20px;
+                right: 20px;
+                width: calc( 100% - 40px );
+            }
+
+            &.active {
+                @include desktop__20-bold;
+                pointer-events: none;
+            }
+        }
+    }
+
+
+// Darkmode switcher
+// ============================================================================
+
+    .darkmode-switcher {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        width: 80px;
+        height: 48px;
+
+        dark-mode-toggle {
+            display: block;
+            width: 80px;
+            height: 28px;
+        }
+    }
+
+
+// Mobile menu toggle
+// ============================================================================
+
+    .mobile-nav-toggle {
+        position: relative;
+        display: none;
+        width: 36px;
+        height: 36px;
+
+        span {
+            position: absolute;
+              left: 4px;
+            display: block;
+            width: 28px;
+            height: 2px;
+            background-color: $light__grey-4;
+            transition: transform .5s .2s, top .5s .2s;
+
+            &:first-child {
+                top: 11px;
+            }
+
+            &:last-child {
+                top: 23px;
+            }
+        }
+
+        &.show {
+            span:first-child {
+                top: 17px;
+                transform: rotate(135deg);
+            }
+            span:last-child {
+                top: 17px;
+                transform: rotate(-135deg);
+            }
+        }
+    }
+
+
+// Slim version for scroll
+// ============================================================================
+
+    &.slim {
+        height: 64px;
+        padding-top: 8px;
+
+        .logo-box {
+            padding-top: 12px;
+
+            a {
+                width: 30px;
+                height: 24px;
+            }
+        }
+    }
+
+
+// Hide when scroll
+// ============================================================================
+
+    &.hide { top: -108px }
+}
+
+
+// Mobile drop menu
+// ============================================================================
+
+.mobile-menu {
+    display: none;
+    position:fixed;
+    flex-direction: column;
+    justify-content: flex-end;
+    z-index: 900;
+      top: 80px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    padding: 0 24px;
+
+    background-color: $white-op;
+    backdrop-filter: blur(20px);
+    transition: visibility .7s, opacity .7s;
+
+    visibility: hidden;
+    opacity: 0;
+
+    nav {
+        a {
+            display: block;
+            padding: 25px 0;
+
+            color: $light__grey-4;
+            @include desktop__20-reg;
+            text-decoration: none;
+
+            &.active {
+                @include desktop__20-bold;
+                pointer-events: none;
+            }
+        }
+    }
+
+    .bottom-section {
+        padding: 68px 0 58px !important;
+
+        .social-box {
+            a {
+                svg { fill: $light__grey-4 !important; }
+            }
+        }
+    }
+
+    &.show {
+        visibility: visible;
+        opacity: 1;
+    }
+}
+
+
+// ============================================================================
+// Tablet <= 768
+// ============================================================================
+
+@media screen and (max-width: 768px) {
+    header {
+        .darkmode-switcher { display: none }
+
+        nav {
+            justify-content: flex-end;
+            margin-right: -20px;
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Mobile < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+    header {
+        height: 80px;
+        padding: 24px 0 ;
+    
+        .grid-container { justify-content: space-between }
+
+        .logo-box {
+            a {
+                width: 44px;
+                height: 36px;
+            }
+        }
+
+        .darkmode-switcher { display: none }
+        nav { display: none }
+        .mobile-nav-toggle { display: block }
+    }
+
+    .mobile-menu { display: flex }
+}
+
+
+
+// ============================================================================
+// Darkmode
+// ============================================================================
+
+body.dark {
+
+    header {
+        background-color: $black-op;
+
+        .logo-box {
+            a { background-image: url(assets/images/logo-white.svg) }
+        }
+
+        nav {
+            a {
+                color: $dark__grey-4;
+                &:after { background-color: $dark__grey-4 }
+                &.active { color: $white }
+            }
+        }
+
+        .mobile-nav-toggle {
+            span { background-color: $dark__grey-4 }
+        }
+    }
+
+
+    // Mobile drop menu
+    // ============================================================================
+
+    .mobile-menu {
+        background-color: $black-op;
+
+        nav {
+            a {
+                color: $dark__grey-4;
+                &.active { color: $white }
+            }
+        }
+
+        .bottom-section {
+            .social-box {
+                a {
+                    svg { fill: $dark__grey-4 !important; }
+                }
+            }
+        }
+    }
+}

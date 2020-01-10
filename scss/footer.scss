@@ -1,0 +1,171 @@
+footer,
+.mobile-menu .bottom-section {
+    padding: 0 0 60px;
+
+    .grid-container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .copyright {
+        display: flex;
+        align-items: center;
+
+        color: $light__grey-2;
+        @include desktop__14-reg;
+    }
+
+    .social-box {
+        display: flex;
+
+        a {
+            display: flex;
+            justify-content: center;
+            width: 48px;
+            height: 28px;
+            text-decoration: none;
+
+            &:last-child { margin-right: -10px }
+
+            svg {
+                fill: $light__grey-2;
+                transition: fill .2s;
+            }
+
+            &:hover {
+                svg { fill: $light__grey-4;  }
+            }
+        }
+    }
+
+    &.fixed {
+        position: fixed;
+          left: 0;
+          right: 0;
+          bottom: 0;
+        z-index: 899;
+
+        &:before {
+            content: '';
+            position: absolute;
+              left: 0;
+              bottom: 0;
+            width: 100%;
+            height: 168px;
+            z-index: -1;
+            background: linear-gradient(180deg,
+                rgba(255, 255, 255, 0) 0%,
+                rgba(255, 255, 255, 0.0086472) 5%,
+                rgba(255, 255, 255, 0.03551) 10%,
+                rgba(255, 255, 255, 0.0816599) 15%,
+                rgba(255, 255, 255, 0.147411) 20%,
+                rgba(255, 255, 255, 0.231775) 25%,
+                rgba(255, 255, 255, 0.331884) 30%,
+                rgba(255, 255, 255, 0.442691) 35%,
+                rgba(255, 255, 255, 0.557309) 40%,
+                rgba(255, 255, 255, 0.668116) 45%,
+                rgba(255, 255, 255, 0.768225) 50%,
+                rgba(255, 255, 255, 0.852589) 55%,
+                rgba(255, 255, 255, 0.91834) 60%,
+                rgba(255, 255, 255, 0.96449) 65%,
+                #FFFFFF 80%,
+                #FFFFFF 100%);
+        }
+    }
+}
+
+
+// ============================================================================
+// Tablet <= 768
+// ============================================================================
+
+@media screen and (max-width: 768px) {
+    footer {
+        &.fixed {
+            position: relative;
+              left: auto;
+              right: auto;
+              bottom: auto;
+            &:before { display: none }
+        }
+    }
+}
+
+
+// ============================================================================
+// Mobile < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+    footer,
+    .mobile-menu .bottom-section {
+        padding: 0 0 54px;
+
+        .grid-container {
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+
+        .copyright {
+            order: 2;
+            color: $light__grey-2;
+            @include desktop__14-reg;
+        }
+
+        .social-box {
+            display: flex;
+            padding-bottom: 19px;
+
+            a {
+                &:first-child { margin-left: -10px }
+                &:last-child { margin-right: 0 }
+            }
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Darkmode
+// ============================================================================
+
+body.dark {
+    footer,
+    .mobile-menu .bottom-section {
+        .copyright { color: $dark__grey-2 }
+
+        .social-box {
+            a {
+                svg { fill: $dark__grey-2 }
+
+                &:hover {
+                    svg { fill: $dark__grey-4;  }
+                }
+            }
+        }
+
+        &.fixed {
+            &:before {
+                background: linear-gradient(180deg,
+                    rgba(0, 0, 7, 0) 0%,
+                    rgba(0, 0, 7, 0.0086472) 5%,
+                    rgba(0, 0, 7, 0.03551) 10%,
+                    rgba(0, 0, 7, 0.0816599) 15%,
+                    rgba(0, 0, 7, 0.147411) 20%,
+                    rgba(0, 0, 7, 0.231775) 25%,
+                    rgba(0, 0, 7, 0.331884) 30%,
+                    rgba(0, 0, 7, 0.442691) 35%,
+                    rgba(0, 0, 7, 0.557309) 40%,
+                    rgba(0, 0, 7, 0.668116) 45%,
+                    rgba(0, 0, 7, 0.768225) 50%,
+                    rgba(0, 0, 7, 0.852589) 55%,
+                    rgba(0, 0, 7, 0.91834) 60%,
+                    rgba(0, 0, 7, 0.96449) 65%,
+                    #000007 80%,
+                    #000007 100%);
+            }
+        }
+    }
+
+}

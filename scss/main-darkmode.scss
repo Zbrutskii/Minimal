@@ -1,0 +1,11 @@
+body.dark {
+    background-color: $black;
+    background-color: $black;
+
+    ::selection {
+        color: $black;
+        background-color: $white;
+    }
+
+    h1 { color: $white }
+}
