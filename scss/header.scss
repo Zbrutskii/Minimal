@@ -14,7 +14,7 @@ header {
 
     background-color: $white-op;
     backdrop-filter: blur(20px);
-    transition: top .3s;
+    transition: top .3s, height .3s, padding-top .3s;
     
     .grid-container { display: flex }
 
@@ -24,6 +24,7 @@ header {
 
     .logo-box {
         width: 80px;
+        transition: padding-top .3s;
 
         a {
             display: block;
@@ -31,6 +32,7 @@ header {
             height: 48px;
 
             background: url(assets/images/logo-black.svg) 100%/cover no-repeat;
+            transition: width .3s, height .3s;
             text-decoration: none;
         }
     }
@@ -159,7 +161,7 @@ header {
 // Hide when scroll
 // ============================================================================
 
-    &.hide { top: -108px }
+    &.hidden { top: -64px }
 }
 
 
@@ -202,7 +204,7 @@ header {
     }
 
     .bottom-section {
-        padding: 68px 0 58px !important;
+        padding: 68px 0 54px !important;
 
         .social-box {
             a {
@@ -230,6 +232,8 @@ header {
             justify-content: flex-end;
             margin-right: -20px;
         }
+
+        &.hidden { top: -80px }
     }
 }
 
@@ -256,6 +260,24 @@ header {
         .darkmode-switcher { display: none }
         nav { display: none }
         .mobile-nav-toggle { display: block }
+
+
+    // Slim version for scroll
+    // ============================================================================
+
+        &.slim {
+            height: 80px;
+            padding: 24px 0 ;
+
+            .logo-box {
+                padding-top: 0;
+
+                a {
+                    width: 44px;
+                    height: 36px;
+                }
+            }
+        }
     }
 
     .mobile-menu { display: flex }

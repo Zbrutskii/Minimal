@@ -7,5 +7,38 @@ body.dark {
         background-color: $white;
     }
 
+
+    // Local typo
+    // ============================================================================
+
     h1 { color: $white }
+
+    .button {
+        &.button-text {
+            color: $dark__grey-3;
+
+            &:hover { color: $white; }
+        }
+    }
+
+
+    // Mobules
+    // ============================================================================
+
+    .project-item {
+        .project-cover {
+            img {
+                &.light { display: none; }
+                &.dark { display: block }
+            }
+        }
+
+        .project-title { color: $dark__grey-4 }
+        .project-descr { color: $dark__grey-3 }
+
+        &:hover {
+            .project-cover { @include dark__card-hover-shadow; }
+            .project-title { color: $white }
+        }
+    }
 }

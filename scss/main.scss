@@ -47,6 +47,142 @@ h1 {
     @include desktop__48-bold;
 }
 
+.button {
+    &.button-text {
+        color: $light__grey-3;
+
+        &:hover { color: $black; }
+    }
+}
+
+
+// Mobules
+// ============================================================================
+
+.project-item {
+    a {
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .project-cover {
+        position: relative;
+        width: 100%;
+        padding-top: 66.66%;
+
+        background-color: gray;
+        box-shadow: 0;
+        transition: transform .5s, box-shadow .5s;
+
+        img {
+            position: absolute;
+              top: 0;
+              left: 0;
+            width: 100%;
+            height: 100%;
+
+            &.light { z-index: 2; }
+            &.dark {
+                display: none;
+                z-index: 1;
+            }
+        }
+    }
+
+    .project-title {
+        padding-top: 13px;
+        color: $light__grey-4;
+        @include desktop__20-reg;
+    }
+
+    .project-descr {
+        padding-top: 6px;
+        
+        opacity: 0;
+        transition: opacity .3s;
+
+        color: $light__grey-3;
+        @include desktop__14-reg;
+    }
+
+    &:hover {
+        .project-cover {
+            @include light__card-hover-shadow;
+            transform: scale(1.021) translateY(-8px);
+
+            img {
+                position: absolute;
+                  top: 0;
+                  left: 0;
+                width: 100%;
+                height: 100%;
+
+                &.light { z-index: 2; }
+                &.dark {
+                    display: none;
+                    z-index: 1;
+                }
+            }
+        }
+
+        .project-title { color: $black }
+        .project-descr { opacity: 1 }
+    }
+}
+
+
+
+// ============================================================================
+// Tablet <= 768
+// ============================================================================
+
+@media screen and (max-width: 768px) {
+
+
+// Mobules
+// ============================================================================
+
+    .project-item {
+        a { text-align: left; }
+        .project-title { padding-top: 17px }
+        .project-descr { opacity: 1 }
+    }
+}
+
+
+
+// ============================================================================
+// Mobile < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+    body {
+        padding-top: 80px;
+
+        &.fix { overflow: hidden; }
+    }
+
+    h1 { @include mobile__36-bold; }
+
+
+// Mobules
+// ============================================================================
+
+    .project-item {
+        .project-title {
+            padding-top: 16px;
+            @include mobile__18-reg;
+        }
+        
+        .project-descr {
+            padding-top: 4px;
+            @include mobile__13-reg;
+        }
+    }
+}
+
+
+
 @import "main-darkmode.scss";
 
 @import "header.scss";

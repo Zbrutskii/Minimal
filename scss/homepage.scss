@@ -1,8 +1,85 @@
 @import "components.scss";
 
 .main-content {
+    padding-bottom: 168px;
+
     .title-box {
         padding-top: 100px;
         text-align: center;
+    }
+
+    .featured-projects-box {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 115px;
+
+        .project-item { width: calc( ( 100% - 56px ) / 3 ); }
+    }
+
+    .open-works-button {
+        display: flex;
+        justify-content: center;
+        padding-top: 21px;
+
+        .button {
+            width: calc( ( 100% - 56px ) / 3 );
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Tablet <= 768
+// ============================================================================
+
+@media screen and (max-width: 768px) {
+    .main-content {
+        padding-bottom: 100px;
+
+        .title-box { text-align: left }
+
+        .featured-projects-box {
+            flex-direction: column;
+
+            .project-item {
+                width: 100%;
+                margin-bottom: 34px;
+            }
+        }
+
+        .open-works-button {
+            justify-content: flex-start;
+            padding-top: 14px;
+
+            .button {
+                text-align: left;
+                width: 50%;
+            }
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Mobile < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+    .main-content {
+        padding-bottom: 100px;
+        
+        .title-box { padding-top: 61px }
+
+        .featured-projects-box { padding-top: 125px }
+
+        .open-works-button {
+            display: flex;
+            justify-content: center;
+            padding-top: 21px;
+
+            .button { width: 100%; }
+        }
     }
 }
