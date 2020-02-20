@@ -1,0 +1,105 @@
+@import "components.scss";
+
+.main-content {
+    padding: 80px 0 8px;
+
+    .grid-container {
+        padding: 0 46px;
+    }
+
+
+// Filters
+// ============================================================================
+
+    .filter-wrapper {
+        width: 100%;
+        max-width: 1440px;
+        height: 49px;
+        margin: auto;
+        padding: 0 60px;
+        overflow: auto;
+    }
+
+    .filter-tabs {
+        text-align: center;
+        white-space: nowrap;
+        border-bottom: 1px solid $light__grey-1;
+
+        label {
+            display: inline-block;
+            height: 48px;
+            margin: 0 20px;
+            cursor: pointer;
+
+            input { display: none }
+            span {
+                position: relative;
+                display: inline-block;
+                height: 48px;
+                padding-top: 7px;
+
+                transition: color .2s;
+                color: $light__grey-3;
+                @include desktop__20-reg;
+
+                &:before,
+                &:after {
+                    content: '';
+                    position: absolute;
+                    bottom: -1px;
+                    
+                    border-bottom: 1px solid transparent;
+                    transition: border-bottom-color .2s;
+                }
+    
+                &:before {
+                    left: -8px;
+                    right: -8px;
+                }
+                &:after {
+                    left: 0px;
+                    right: 0px;
+                }
+            }
+
+            i {
+                position: relative;
+                  top: -14px;
+                padding-left: 4px;
+                transition: color .2s;
+                color: $light__grey-2;
+                @include desktop__14-reg;
+            }
+
+            &:hover {
+                span { color: $light__grey-4 }
+                i { color: $light__grey-4 }
+            }
+
+            input:checked {
+                + span {
+                    color: $light__grey-4;
+
+                    &:before { border-bottom-color: $white }
+                    &:after { border-bottom-color: $light__grey-4 }
+                }
+
+                ~ i { color: $light__grey-4 }
+            }
+        }
+    }
+
+
+// Cases list
+// ============================================================================
+
+    .cases-list {
+        padding-top: 60px;
+
+        .case-item {
+            width: calc( ( 100% / 3 ) - 28px );
+            margin: 0 14px 28px;
+        }
+    }
+}
+

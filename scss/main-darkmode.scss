@@ -25,20 +25,20 @@ body.dark {
     // Mobules
     // ============================================================================
 
-    .project-item {
-        .project-cover {
+    .case-item {
+        .case-cover {
             img {
                 &.light { display: none; }
                 &.dark { display: block }
             }
         }
 
-        .project-title { color: $dark__grey-4 }
-        .project-descr { color: $dark__grey-3 }
+        .case-title { color: $dark__grey-4 }
+        .case-descr { color: $dark__grey-3 }
 
         &:hover {
-            .project-cover { @include dark__card-hover-shadow; }
-            .project-title { color: $white }
+            .case-cover { @include dark__card-hover-shadow; }
+            .case-title { color: $white }
         }
     }
 }

@@ -26,7 +26,7 @@
 // ============================================================================
 
 body {
-    padding-top: 108px;
+    padding-top: 128px;
     background-color: $white;
     -webkit-font-smoothing: antialiased;
     font-family: 'Object Sans', sans-serif;
@@ -35,6 +35,10 @@ body {
         color: $white;
         background-color: $black;
     }
+}
+
+input, textarea {
+    font-family: 'Object Sans', sans-serif;
 }
 
 
@@ -59,13 +63,13 @@ h1 {
 // Mobules
 // ============================================================================
 
-.project-item {
+.case-item {
     a {
         text-align: center;
         text-decoration: none;
     }
 
-    .project-cover {
+    .case-cover {
         position: relative;
         width: 100%;
         padding-top: 66.66%;
@@ -89,13 +93,13 @@ h1 {
         }
     }
 
-    .project-title {
+    .case-title {
         padding-top: 13px;
         color: $light__grey-4;
         @include desktop__20-reg;
     }
 
-    .project-descr {
+    .case-descr {
         padding-top: 6px;
         
         opacity: 0;
@@ -106,7 +110,7 @@ h1 {
     }
 
     &:hover {
-        .project-cover {
+        .case-cover {
             @include light__card-hover-shadow;
             transform: scale(1.021) translateY(-8px);
 
@@ -125,8 +129,8 @@ h1 {
             }
         }
 
-        .project-title { color: $black }
-        .project-descr { opacity: 1 }
+        .case-title { color: $black }
+        .case-descr { opacity: 1 }
     }
 }
 
@@ -142,10 +146,10 @@ h1 {
 // Mobules
 // ============================================================================
 
-    .project-item {
+    .case-item {
         a { text-align: left; }
-        .project-title { padding-top: 17px }
-        .project-descr { opacity: 1 }
+        .case-title { padding-top: 17px }
+        .case-descr { opacity: 1 }
     }
 }
 
@@ -168,13 +172,13 @@ h1 {
 // Mobules
 // ============================================================================
 
-    .project-item {
-        .project-title {
+    .case-item {
+        .case-title {
             padding-top: 16px;
             @include mobile__18-reg;
         }
         
-        .project-descr {
+        .case-descr {
             padding-top: 4px;
             @include mobile__13-reg;
         }

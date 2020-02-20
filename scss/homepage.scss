@@ -4,16 +4,16 @@
     padding-bottom: 168px;
 
     .title-box {
-        padding-top: 100px;
+        padding-top: 80px;
         text-align: center;
     }
 
-    .featured-projects-box {
+    .featured-cases-box {
         display: flex;
         justify-content: space-between;
         padding-top: 115px;
 
-        .project-item { width: calc( ( 100% - 56px ) / 3 ); }
+        .case-item { width: calc( ( 100% - 56px ) / 3 ); }
     }
 
     .open-works-button {
@@ -39,10 +39,10 @@
 
         .title-box { text-align: left }
 
-        .featured-projects-box {
+        .featured-cases-box {
             flex-direction: column;
 
-            .project-item {
+            .case-item {
                 width: 100%;
                 margin-bottom: 34px;
             }
@@ -72,7 +72,7 @@
         
         .title-box { padding-top: 61px }
 
-        .featured-projects-box { padding-top: 125px }
+        .featured-cases-box { padding-top: 125px }
 
         .open-works-button {
             display: flex;

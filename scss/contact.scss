@@ -1,0 +1,288 @@
+@import "components.scss";
+
+.main-content {
+    padding: 80px 0 69px;
+
+    .grid-container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .col { width: calc( ( 100% - 56px ) / 3 ) }
+
+
+// Address box
+// ============================================================================
+
+    .address-box {
+        span, a {
+            @include desktop__20-reg;
+            text-decoration: none;
+            color: $light__grey-4;
+        }
+
+        .city-time {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            .time {
+                padding-top: 9px;
+                @include desktop__20-reg;
+            }
+        }
+
+        .contacts {
+            padding-top: 29px;
+
+            a {
+                display: block;
+                padding-top: 10px;
+            }
+        }
+
+        .address { padding-top: 26px }
+
+        .open-map {
+            padding-top: 25px;
+
+            a {
+                display: flex;
+                align-items: flex-end;
+
+                span {
+                    margin-right: 12px;
+                    border-bottom: 1.5px solid $light__grey-4;
+                }
+
+                svg { fill: $light__grey-4; }
+            }
+        }
+    }
+
+
+// Map box
+// ============================================================================
+
+    .map-box {
+        padding-top: 30px;
+
+        iframe {
+            width: 100%;
+            height: 480px;
+        }
+    }
+
+
+// Form box
+// ============================================================================
+
+    .form-box {
+        padding-top: 30px;
+
+        .section-title {
+            color: $black;
+            @include desktop__20-bold;
+        }
+
+        form {
+            padding-top: 32px;
+
+            .field-item {
+                position: relative;
+                padding-bottom: 40px;
+
+                input, textarea {
+                    width: 100%;
+                    height: 52px;
+                    
+                    border: none;
+                    background-color: transparent;
+                    border-bottom: 1px solid $light__grey-2;
+                    transition: border-bottom .3s;
+
+                    color: $black;
+                    @include desktop__20-reg;
+                }
+
+                label {
+                    position: absolute;
+                      top: 14px;
+                      left: 0;
+
+                    cursor: text;
+                    transition: color .3s, transform .3s, top .3s;
+                    transform-origin: top left;
+                    color: $light__grey-3;
+                    @include desktop__20-reg;
+                }
+
+                input:hover, textarea:hover {
+                    & + label { color: $light__grey-4 }
+                }
+
+                input:focus, textarea:focus,
+                input.filled, textarea.filled {
+                    border-bottom-color: $light__grey-4;
+
+                    & + label {
+                        top: -8px;
+                        transform: scale(.7);
+                    }
+                }
+            }
+
+            .button-black {
+                width: 100%;
+                margin-top: 20px;
+                padding-bottom: 4px;
+
+                background-color: $light__grey-4;
+                color: $white;
+            }
+        }
+
+        .agreement {
+            padding-top: 33px;
+            color: $light__grey-3;
+            @include desktop__14-reg;
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Tablet <= 768
+// ============================================================================
+
+@media screen and (max-width: 768px) {
+
+    .main-content {
+        padding-bottom: 62px;
+
+        .grid-container { flex-direction: column }
+        .col { width: 100% }
+
+
+    // Map box
+    // ============================================================================
+
+        .map-box { padding-top: 138px; }
+
+
+    // Form box
+    // ============================================================================
+
+        .form-box {
+            padding-top: 133px;
+
+            .agreement br { display: none }
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Mobile < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+    .main-content {
+        padding-bottom: 40px;
+
+        .grid-container { flex-direction: column }
+        .col { width: 100% }
+
+
+    // Address box
+    // ============================================================================
+
+        .address-box {
+            span, a { @include mobile__18-reg; }
+
+            .city-time {
+                .time {
+                    padding-top: 2px;
+                    @include mobile__18-reg;
+                }
+            }
+
+            .contacts {
+                padding-top: 17px;
+
+                a { padding-top: 5px }
+            }
+
+            .address { padding-top: 17px }
+            .open-map { padding-top: 17px }
+        }
+
+
+
+    // Map box
+    // ============================================================================
+
+        .map-box { display: none }
+
+
+    // Form box
+    // ============================================================================
+
+        .form-box { padding-top: 90px }
+    }
+}
+
+
+
+// ============================================================================
+// Darkmode
+// ============================================================================
+
+body.dark {
+    .main-content {
+
+
+    // Address box
+    // ============================================================================
+
+        .address-box {
+            span, a { color: $dark__grey-4; }
+
+            .open-map {
+                a {
+                    span { border-bottom-color: $dark__grey-4; }
+                    svg { fill: $dark__grey-4; }
+                }
+            }
+        }
+
+
+    // Form box
+    // ============================================================================
+
+        .form-box {
+            .section-title { color: $white; }
+            form {
+                .field-item {
+                    input, textarea {
+                        border-bottom-color:$dark__grey-2;
+                        color: $white;
+                    }
+                    label { color: $dark__grey-3; }
+                    input:hover, textarea:hover { & + label { color: $dark__grey-4 } }
+                    input:focus, textarea:focus,
+                    input.filled, textarea.filled { border-bottom-color: $dark__grey-4; }
+                }
+
+                .button-black {
+                    background-color: $white;
+                    color: $black;
+                }
+            }
+
+            .agreement { color: $dark__grey-3; }
+        }
+    }
+}

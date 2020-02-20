@@ -16,10 +16,13 @@ hr {
   min-width: 200px;
   height: 52px;
   padding-top: 12px;
+  border: none;
   cursor: pointer;
-  -webkit-transition: color .3s, background-color .3s;
-  -o-transition: color .3s, background-color .3s;
-  transition: color .3s, background-color .3s;
+  -webkit-transition: color .3s, background-color .3s, -webkit-transform .3s;
+  transition: color .3s, background-color .3s, -webkit-transform .3s;
+  -o-transition: color .3s, background-color .3s, transform .3s;
+  transition: color .3s, background-color .3s, transform .3s;
+  transition: color .3s, background-color .3s, transform .3s, -webkit-transform .3s;
   text-decoration: none;
   text-align: center; }
   .button.button-text {
@@ -28,6 +31,16 @@ hr {
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0.01em; }
+  .button.button-black {
+    padding-top: 0;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.01em; }
+    .button.button-black:hover {
+      -webkit-transform: scale(1.03);
+      -ms-transform: scale(1.03);
+      transform: scale(1.03); }
 
 @media screen and (max-width: 639px) {
   .grid-container {
@@ -46,9 +59,9 @@ hr {
 .main-content {
   padding-bottom: 168px; }
   .main-content .title-box {
-    padding-top: 100px;
+    padding-top: 80px;
     text-align: center; }
-  .main-content .featured-projects-box {
+  .main-content .featured-cases-box {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -56,7 +69,7 @@ hr {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding-top: 115px; }
-    .main-content .featured-projects-box .project-item {
+    .main-content .featured-cases-box .case-item {
       width: calc( ( 100% - 56px ) / 3); }
   .main-content .open-works-button {
     display: -webkit-box;
@@ -74,12 +87,12 @@ hr {
     padding-bottom: 100px; }
     .main-content .title-box {
       text-align: left; }
-    .main-content .featured-projects-box {
+    .main-content .featured-cases-box {
       -webkit-box-orient: vertical;
       -webkit-box-direction: normal;
       -ms-flex-direction: column;
       flex-direction: column; }
-      .main-content .featured-projects-box .project-item {
+      .main-content .featured-cases-box .case-item {
         width: 100%;
         margin-bottom: 34px; }
     .main-content .open-works-button {
@@ -96,7 +109,7 @@ hr {
     padding-bottom: 100px; }
     .main-content .title-box {
       padding-top: 61px; }
-    .main-content .featured-projects-box {
+    .main-content .featured-cases-box {
       padding-top: 125px; }
     .main-content .open-works-button {
       display: -webkit-box;

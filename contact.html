@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>The Minimal – Complex things made simple – UI/UX, Product &amp; Web Design</title>  
+    <title>Contact – The Minimal – Complex things made simple – UI/UX, Product &amp; Web Design</title>  
     <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" viewport-fit=cover>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="supported-color-schemes" content="dark light">
@@ -12,8 +12,8 @@
     <meta property="og:image:width" content="279">
     <meta property="og:image:height" content="279">
     <meta property="og:description" content="Complex things made simple. UI/UX, Product &amp; Web Design">
-    <meta property="og:title" content="The Minimal">
-    <meta property="og:url" content="https://min.studio">
+    <meta property="og:title" content="The Minimal – Contact">
+    <meta property="og:url" content="https://min.studio/contact">
     <meta property="og:image" content="https://min.studio/assets/images/og-image.jpg">
 
     <link rel="apple-touch-icon" sizes="180x180" href="https://min.studio/assets/favicon/apple-touch-icon.png">
@@ -29,11 +29,14 @@
     <meta name="theme-color" content="#ffffff">
 
     <link href="style.css" rel="stylesheet">
-    <link href="css/homepage.css" rel="stylesheet">
-    
+    <link href="css/contact.css" rel="stylesheet">
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="dark-mode-toggle.js" type="module"></script>
     <script src="script.js" type="module"></script>
+    <script src="moment.min.js"></script>
+    <script src="moment-timezone.min.js"></script>
+
 </head>
 <body>
 
@@ -52,7 +55,7 @@
                 <a href="/work">Work</a> <!-- class="active" -->
                 <a href="/about">About</a>
                 <a href="/career">Career</a>
-                <a href="/contact">Contact</a>
+                <a href="/contact" class="active">Contact</a>
             </nav>
 
             <div class="darkmode-switcher">
@@ -75,7 +78,7 @@
             <a href="/work">Work</a> <!-- class="active" -->
             <a href="/about">About</a>
             <a href="/career">Career</a>
-            <a href="/contact">Contact</a>
+            <a href="/contact" class="active">Contact</a>
         </nav>
 
         <div class="bottom-section">
@@ -122,69 +125,64 @@
     <div class="main-content">
         <div class="grid-container">
 
-
-<!-- Title box
-     ---------------------------------------------------------------------- -->
-
-            <div class="title-box">
-               <h1>Complex things made simple</h1>
+            <div class="col address-box">
+                <div class="city-time">
+                    <h1>Kyiv</h1>
+                    <span class="time">
+                        <script>
+                            function calcTime(city, offset) {
+                                d = new Date();
+                                utc = d.getTime() + (d.getTimezoneOffset() * 60000);
+                                nd = new Date(utc + (3600000*offset));
+                                return nd.toLocaleString("en-US");
+                            }
+                            document.writeln(calcTime('Kiev', '+2'));
+                        </script>
+                    </span>
+                </div>
+                <div class="contacts">
+                    <a href="mailto:hello@min.studio" class="email">hello@min.studio</a>
+                    <a href="tel:+380991234567" class="phone">+38 099 123 4567</a>
+                </div>
+                <div class="address">
+                    <span>Yaroslavsky lane, 1/3,<br>Kiev, 02000, Ukraine</span>
+                </div>
+                <div class="open-map">
+                    <a href="https://goo.gl/maps/aXNGpcLGfZmV6zcJ8" target="_blank">
+                        <span>Get directions</span>
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M24 0.276825V2V18V18.5803L23.4961 18.8682L16.5114 22.8595C16.5008 22.8658 16.4901 22.872 16.4793 22.8779L16.0315 23.1338L15.5722 22.9041C15.5596 22.8982 15.5471 22.8919 15.5348 22.8854L8.03147 19.1338L1.49614 22.8682L0 23.7232V22V6V5.41968L0.503861 5.13176L7.48862 1.14047C7.49919 1.13417 7.50989 1.12805 7.52071 1.12213L7.96853 0.866235L8.42784 1.09589C8.44044 1.10186 8.4529 1.10809 8.4652 1.11457L15.9685 4.86624L22.5039 1.13176L24 0.276825ZM17 20.2768L22 17.4197V3.72318L17 6.58033V20.2768ZM15 6.61804V20.382L9 17.382V3.61804L15 6.61804ZM2 6.58033L7 3.72318V17.4197L2 20.2768V6.58033Z"/>
+                        </svg>
+                    </a>
+                </div>
             </div>
 
-
-<!-- Featured cases
-     ---------------------------------------------------------------------- -->
-
-            <div class="featured-cases-box">
-
-                <div class="case-item">
-                    <a href="#">
-                        <div class="case-cover">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
-                        </div>
-                        <div class="case-title">
-                            <h3>National Bank of Ukraine</h3>
-                        </div>
-                        <div class="case-descr">
-                            <span>Online coin store</span>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="case-item">
-                    <a href="#">
-                        <div class="case-cover">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
-                        </div>
-                        <div class="case-title">
-                            <h3>National Bank of Ukraine</h3>
-                        </div>
-                        <div class="case-descr">
-                            <span>Online coin store</span>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="case-item">
-                    <a href="#">
-                        <div class="case-cover">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
-                        </div>
-                        <div class="case-title">
-                            <h3>National Bank of Ukraine</h3>
-                        </div>
-                        <div class="case-descr">
-                            <span>Online coin store</span>
-                        </div>
-                    </a>
-                </div>
-
+            <div class="col map-box">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1067.7815291426973!2d30.50930407458084!3d50.46667420122502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd60691de1458adbc!2sHUB%204.0!5e0!3m2!1sru!2sua!4v1578845822932!5m2!1sru!2sua" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             </div>
 
-            <div class="open-works-button">
-                <a href="#" class="button button-text">View all projects</a>
+            <div class="col form-box">
+                <div class="section-title">
+                    <span>Write to us</span>
+                </div>
+                <form action="">
+                    <div class="field-item">
+                        <input type="text" id="cf-name">
+                        <label for="cf-name">Your Name</label>
+                    </div>
+                    <div class="field-item">
+                        <input type="email" id="cf-email">
+                        <label for="cf-email">Email</label>
+                    </div>
+                    <div class="field-item">
+                        <textarea id="cf-message" rows="1"></textarea>
+                        <label for="cf-message">Your message</label>
+                    </div>
+                    <input type="submit" value="Send message" class="button button-black">
+                </form>
+                <div class="agreement">
+                    <span>By clicking this button, I agree to the processing <br>and storage of my personal data.</span>
+                </div>
             </div>
 
         </div>
@@ -196,7 +194,7 @@
      Footer
      ---------------------------------------------------------------------- -->
 
-<footer class="fixed">
+<footer>
     <div class="grid-container">
         <div class="copyright">
             <span>&copy; 2016 – 2020 The Minimal LLC</span>
@@ -231,6 +229,10 @@
         </div>
     </div>
 </footer>
+
+<script>
+    moment.tz.setDefault("Europe/Kiev");
+</script>
 
 </body>
 </html>

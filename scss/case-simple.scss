@@ -1,0 +1,75 @@
+@import "components.scss";
+
+
+
+// ============================================================================
+// Hero unit
+// ============================================================================
+
+.hero-screen {
+    padding: 80px 0 116px;
+
+
+// Title, category & date
+// ============================================================================
+
+    .title-box { padding-bottom: 14px }
+
+    .project-cat-date {
+        display: flex;
+        padding-bottom: 22px;
+
+        color: $light__grey-3;
+        @include desktop__14-reg;
+        
+        .category { padding-right: 20px }
+    }
+
+
+// Description & links
+// ============================================================================
+
+    .project-descr {
+        width: 100%;
+        max-width: 870px;
+        padding-bottom: 20px;
+
+        color: $black;
+        @include desktop__20-32-reg;
+    }
+
+    .project-links{
+        a {
+            padding-right: 20px;
+            color: $black;
+            @include desktop__20-reg;
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Dark mode
+// ============================================================================
+
+body.dark {
+    .hero-screen {
+    
+    // Title, category & date
+    // ============================================================================
+    
+        .project-cat-date { color: $dark__grey-3 }
+    
+    
+    // Description & links
+    // ============================================================================
+    
+        .project-descr { color: $white }
+    
+        .project-links{
+            a { color: $white }
+        }
+    }
+
+}

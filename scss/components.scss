@@ -53,6 +53,13 @@ $dark__grey-4: #DFDFDF;
     letter-spacing: 0.01em;
 }
 
+@mixin desktop__20-32-reg {
+    font-weight:    normal;
+    font-size:      20px;
+    line-height:    32px;
+    letter-spacing: 0.01em;
+}
+
 @mixin desktop__14-reg {
     font-weight:    normal;
     font-size:      14px;
@@ -110,8 +117,9 @@ hr {
     height: 52px;
     padding-top: 12px;
 
+    border: none;
     cursor: pointer;
-    transition: color .3s, background-color .3s;
+    transition: color .3s, background-color .3s, transform .3s;
 
     text-decoration: none;
     text-align: center;
@@ -119,6 +127,13 @@ hr {
     &.button-text {
         background-color: transparent;
         @include desktop__20-bold;
+    }
+
+    &.button-black {
+        padding-top: 0;
+        @include desktop__20-reg;
+
+        &:hover { transform: scale(1.03); }
     }
 }
 

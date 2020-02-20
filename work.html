@@ -29,11 +29,12 @@
     <meta name="theme-color" content="#ffffff">
 
     <link href="style.css" rel="stylesheet">
-    <link href="css/homepage.css" rel="stylesheet">
-    
+    <link href="css/work.css" rel="stylesheet">
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="dark-mode-toggle.js" type="module"></script>
     <script src="script.js" type="module"></script>
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 </head>
 <body>
 
@@ -49,7 +50,7 @@
             </div>
 
             <nav>
-                <a href="/work">Work</a> <!-- class="active" -->
+                <a href="/work" class="active">Work</a> <!-- class="active" -->
                 <a href="/about">About</a>
                 <a href="/career">Career</a>
                 <a href="/contact">Contact</a>
@@ -72,7 +73,7 @@
 
     <div class="mobile-menu">
         <nav>
-            <a href="/work">Work</a> <!-- class="active" -->
+            <a href="/work" class="active">Work</a> <!-- class="active" -->
             <a href="/about">About</a>
             <a href="/career">Career</a>
             <a href="/contact">Contact</a>
@@ -120,74 +121,389 @@
      ---------------------------------------------------------------------- -->
 
     <div class="main-content">
-        <div class="grid-container">
 
 
-<!-- Title box
+<!-- Filter tabs
      ---------------------------------------------------------------------- -->
 
-            <div class="title-box">
-               <h1>Complex things made simple</h1>
+        <div class="filter-wrapper">
+            <div class="filter-tabs">
+                <label>
+                    <input type="radio" name="filter" value="*" checked="checked" />
+                    <span>All cases</span><i>23</i>
+                </label>
+                <label>
+                    <input type="radio" name="filter" value=".product-design" />
+                    <span>Product Design</span><i>8</i>
+                </label>
+                <label>
+                    <input type="radio" name="filter" value=".web-design" />
+                    <span>Web Design</span><i>6</i>
+                </label>
+                <label>
+                    <input type="radio" name="filter" value=".mobile-app" />
+                    <span>Mobile Apps</span><i>7</i>
+                </label>
+                <label>
+                    <input type="radio" name="filter" value=".wireframing" />
+                    <span>Wireframing</span><i>2</i>
+                </label>
             </div>
-
-
-<!-- Featured cases
-     ---------------------------------------------------------------------- -->
-
-            <div class="featured-cases-box">
-
-                <div class="case-item">
-                    <a href="#">
-                        <div class="case-cover">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
-                        </div>
-                        <div class="case-title">
-                            <h3>National Bank of Ukraine</h3>
-                        </div>
-                        <div class="case-descr">
-                            <span>Online coin store</span>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="case-item">
-                    <a href="#">
-                        <div class="case-cover">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
-                        </div>
-                        <div class="case-title">
-                            <h3>National Bank of Ukraine</h3>
-                        </div>
-                        <div class="case-descr">
-                            <span>Online coin store</span>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="case-item">
-                    <a href="#">
-                        <div class="case-cover">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
-                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
-                        </div>
-                        <div class="case-title">
-                            <h3>National Bank of Ukraine</h3>
-                        </div>
-                        <div class="case-descr">
-                            <span>Online coin store</span>
-                        </div>
-                    </a>
-                </div>
-
-            </div>
-
-            <div class="open-works-button">
-                <a href="#" class="button button-text">View all projects</a>
-            </div>
-
         </div>
+
+
+<!-- Cases list
+     ---------------------------------------------------------------------- -->
+
+        <div class="grid-container">
+            <div class="cases-list">
+
+                <div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item web-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item web-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item mobile-app">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item wireframing">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item web-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item mobile-app">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item wireframing">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item mobile-app">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item mobile-app">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item web-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item mobile-app">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item web-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item mobile-app">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item web-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div><div class="case-item product-design">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="case-item mobile-app">
+                    <a href="#">
+                        <div class="case-cover">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="light">
+                            <img src="" alt="National Bank of Ukraine ‒ Online coin store" class="dark">
+                        </div>
+                        <div class="case-title">
+                            <h3>National Bank of Ukraine</h3>
+                        </div>
+                        <div class="case-descr">
+                            <span>Online coin store</span>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
     </div>
 
 
@@ -196,7 +512,7 @@
      Footer
      ---------------------------------------------------------------------- -->
 
-<footer class="fixed">
+<footer>
     <div class="grid-container">
         <div class="copyright">
             <span>&copy; 2016 – 2020 The Minimal LLC</span>
@@ -231,6 +547,18 @@
         </div>
     </div>
 </footer>
+
+<script>
+    var $grid = $('.cases-list').isotope({
+        itemSelector: '.case-item',
+        layoutMode: 'fitRows'
+    });
+
+    $('.filter-tabs').on( 'click', 'input', function() {
+        var filterValue = this.value;
+        $grid.isotope({ filter: filterValue });
+    });
+</script>
 
 </body>
 </html>
