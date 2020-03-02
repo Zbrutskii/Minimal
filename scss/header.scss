@@ -31,7 +31,7 @@ header {
             width: 59px;
             height: 48px;
 
-            background: url(assets/images/logo-black.svg) 100%/cover no-repeat;
+            background: url(../assets/images/logo-black.svg) 100%/cover no-repeat;
             transition: width .3s, height .3s;
             text-decoration: none;
         }
@@ -246,7 +246,7 @@ header {
 @media screen and (max-width: 639px) {
     header {
         height: 80px;
-        padding: 24px 0 ;
+        padding: 22px 0 ;
     
         .grid-container { justify-content: space-between }
 
@@ -267,7 +267,7 @@ header {
 
         &.slim {
             height: 80px;
-            padding: 24px 0 ;
+            padding: 22px 0 ;
 
             .logo-box {
                 padding-top: 0;
@@ -295,7 +295,7 @@ body.dark {
         background-color: $black-op;
 
         .logo-box {
-            a { background-image: url(assets/images/logo-white.svg) }
+            a { background-image: url(../assets/images/logo-white.svg) }
         }
 
         nav {

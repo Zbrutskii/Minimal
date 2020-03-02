@@ -7,16 +7,16 @@
 
 @font-face {
     font-family: 'Object Sans';
-    src: url('assets/fonts/subset-ObjectSans-Regular.woff2') format('woff2'),
-        url('assets/fonts/subset-ObjectSans-Regular.woff') format('woff');
+    src: url('../assets/fonts/subset-ObjectSans-Regular.woff2') format('woff2'),
+        url('../assets/fonts/subset-ObjectSans-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Object Sans';
-    src: url('assets/fonts/subset-ObjectSans-Bold.woff2') format('woff2'),
-        url('assets/fonts/subset-ObjectSans-Bold.woff') format('woff');
+    src: url('../assets/fonts/subset-ObjectSans-Bold.woff2') format('woff2'),
+        url('../assets/fonts/subset-ObjectSans-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -49,6 +49,23 @@ input, textarea {
 h1 {
     color: $black;
     @include desktop__48-bold;
+}
+
+h2 {
+    color: $black;
+    @include desktop__28-bold;
+    text-transform: capitalize;
+}
+
+h3 {
+    color: $black;
+    @include desktop__20-bold;
+    text-transform: capitalize;
+}
+
+p {
+    color: $light__grey-4;
+    @include desktop__16-reg;
 }
 
 .button {
@@ -166,8 +183,14 @@ h1 {
         &.fix { overflow: hidden; }
     }
 
-    h1 { @include mobile__36-bold; }
 
+    // Local typo
+    // ============================================================================
+
+    h1 { @include mobile__36-bold }
+    h2 { @include mobile__24-bold }
+    h3 { @include mobile__18-bold }
+    p { @include mobile__15-reg }
 
 // Mobules
 // ============================================================================

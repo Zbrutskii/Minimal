@@ -39,6 +39,12 @@ $dark__grey-4: #DFDFDF;
     line-height: 72px;
 }
 
+@mixin desktop__28-bold {
+    font-weight:    bold;
+    font-size:      28px;
+    line-height:    40px;
+}
+
 @mixin desktop__20-bold {
     font-weight:    bold;
     font-size:      20px;
@@ -60,6 +66,13 @@ $dark__grey-4: #DFDFDF;
     letter-spacing: 0.01em;
 }
 
+@mixin desktop__16-reg {
+    font-weight:    normal;
+    font-size:      16px;
+    line-height:    24px;
+    letter-spacing: 0.01em;
+}
+
 @mixin desktop__14-reg {
     font-weight:    normal;
     font-size:      14px;
@@ -74,6 +87,12 @@ $dark__grey-4: #DFDFDF;
     line-height: 48px;
 }
 
+@mixin mobile__24-bold {
+    font-weight: bold;
+    font-size:   24px;
+    line-height: 36px;
+}
+
 @mixin mobile__18-bold {
     font-weight:    bold;
     font-size:      18px;
@@ -85,6 +104,20 @@ $dark__grey-4: #DFDFDF;
     font-weight:    normal;
     font-size:      18px;
     line-height:    24px;
+    letter-spacing: 0.01em;
+}
+
+@mixin mobile__18-28-reg {
+    font-weight:    normal;
+    font-size:      18px;
+    line-height:    28px;
+    letter-spacing: 0.01em;
+}
+
+@mixin mobile__15-reg {
+    font-weight:    normal;
+    font-size:      15px;
+    line-height:    21px;
     letter-spacing: 0.01em;
 }
 

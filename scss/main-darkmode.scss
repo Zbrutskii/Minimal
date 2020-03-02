@@ -12,6 +12,12 @@ body.dark {
     // ============================================================================
 
     h1 { color: $white }
+    
+    h2 { color: $white }
+
+    h3 { color: $white }
+
+    p { color: $dark__grey-4 }
 
     .button {
         &.button-text {

@@ -1,0 +1,794 @@
+@import "components.scss";
+
+
+// ============================================================================
+// Hero unit
+// ============================================================================
+
+.hero-screen {
+    position: relative;
+    padding: 80px 0 116px;
+
+
+// Title, category & date
+// ============================================================================
+
+    .title-box { padding-bottom: 16px }
+
+    .project-cat-date {
+        display: flex;
+        padding-bottom: 20px;
+
+        color: $light__grey-3;
+        @include desktop__14-reg;
+        
+        .category { padding-right: 20px }
+    }
+
+
+// Description & blur
+// ============================================================================
+
+    .project-descr {
+        width: 100%;
+        max-width: 870px;
+
+        color: $black;
+        @include desktop__20-32-reg;
+    }
+
+    .blur-bg {
+        position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          
+        z-index: -1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .blur {
+            position: absolute;
+              top: 0;
+              left: 0;
+              right: 0;
+              bottom: 0;
+
+            z-index: 2;
+            background: $white-op;
+            backdrop-filter: blur(60px);
+        }
+
+        img {
+            max-width: 85%;
+        }
+    }
+}
+
+
+// ============================================================================
+// Problems
+// ============================================================================
+
+.problems-section {
+    padding-bottom: 130px;
+
+    .section-title { padding-bottom: 40px }
+
+
+// Items
+// ============================================================================
+
+    .wrapper {
+        display: flex;
+        justify-content: space-between;
+
+        .item {
+            width: calc( (100% - 84px) / 4 );
+
+            .title { padding-bottom: 13px }
+        }
+    }
+}
+
+
+// ============================================================================
+// Design Comparison
+// ============================================================================
+
+.ipad-pro-section {
+    position: relative;
+    padding-bottom: 127px;
+    filter:
+        drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.19))
+        drop-shadow(0px 18px 47px rgba(0, 0, 0, 0.11));
+
+    .ipad-mask {
+        pointer-events: none;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    .image-comparison-box {
+        position: absolute;
+            top: 6.6%;
+            left: 3.48%;
+            right: 3.27%;
+        z-index: -1;
+        pointer-events: all;
+    }
+
+    .cocoen-drag {
+        width: 4px;
+        height: 100%;
+        z-index: 3;
+
+        cursor: ew-resize;
+        background-color: $light__grey-4;
+        box-shadow:
+            0px 0px 20px rgba(0, 0, 0, 0.15),
+            0px 0px 3px rgba(0, 0, 0, 0.24);
+
+        &:before {
+            width: 64px;
+            height: 64px;
+            margin: -32px 0 0 -32px;
+
+            border-radius: 64px;
+            background: $light__grey-4 url(../assets/images/comparison-drag.svg) center center no-repeat;
+            border: 0;
+            box-shadow:
+                0px 0px 20px rgba(0, 0, 0, 0.15),
+                0px 0px 3px rgba(0, 0, 0, 0.24);
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Content section
+// ============================================================================
+
+.content-section {
+
+    .safari-bar {
+        .light { display: block }
+        .dark  { display: none }
+    }
+
+    .design-image {
+        padding-bottom: 28px;
+
+        filter:
+            drop-shadow(0px 1.5px 2.7px rgba(0, 0, 0, 0.02))
+            drop-shadow(0px 3.7px 7px rgba(0, 0, 0, 0.03))
+            drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04))
+            drop-shadow(0px 16px 29px rgba(0, 0, 0, 0.05))
+            drop-shadow(0px 43px 80px rgba(0, 0, 0, 0.07));
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        &.no-shadow {
+            filter: none;
+        }
+    }
+
+// Title & descr
+// ============================================================================
+
+    .title-dscr {
+        padding-bottom: 52px;
+
+        .section-title { padding-bottom: 16px; }
+
+        .descr {
+            padding-bottom: 16px;
+            color: $light__grey-4;
+            @include desktop__20-32-reg;
+        }
+    }
+
+
+// Desktop image left & description right, with safari
+// ============================================================================
+
+    .design-image-and-descr {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 0;
+
+        &:last-child { padding-bottom: 65px }
+
+        .design-image {
+            width: calc( 66.66% - 30px );
+            padding-bottom: 60px;
+        }
+
+        .design-descr {
+            padding-top: 52px;
+            width: calc( 33.33% - 30px );
+
+            .item {
+                padding-bottom: 33px;
+
+                .title { padding-bottom: 13px }
+                .text p { padding-bottom: 12px; }
+            }
+        }
+    }
+   
+
+// Desktop imager in 2 cols, with safari
+// ============================================================================
+
+    .design-1col {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 67px;
+
+        .design-image {
+            padding-bottom: 60px;
+
+            &.darkmode-switcher {
+                .dark { display: none }
+            }
+        }
+    }
+
+
+// Desktop imager in 2 cols, with safari
+// ============================================================================
+
+    .design-2cols {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding-bottom: 97px;
+
+        .design-image {
+            width: calc( 50% - 14px );
+            padding-bottom: 28px;
+        }
+    }
+
+
+// Desktop imager in 3, iphone
+// ============================================================================
+
+    .design-3cols {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 60px;
+        flex-wrap: wrap;
+
+        .design-image,
+        .design-descr {
+            width: calc( ( 100% - 120px ) / 3 );
+            padding-bottom: 60px;
+        }
+
+        .design-image {
+            &.iphone {
+                position: relative;
+                filter:
+                    drop-shadow(0px 1.5px 3.4px rgba(0, 0, 0, 0.3))
+                    drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2))
+                    drop-shadow(0px 18px 46px rgba(0, 0, 0, 0.1));
+
+                > img {
+                    position: absolute;
+                      top: 2.8%;
+                      left: 6.5%;
+                    width: 87%;
+                    z-index: -1;
+                }
+            }
+        }
+
+        .design-descr {
+            padding-top: 52px;
+
+            .item {
+                padding-bottom: 33px;
+
+                .title { padding-bottom: 13px }
+                .text p { padding-bottom: 12px; }
+            }
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Case switcher
+// ============================================================================
+
+.case-switcher {
+
+    .grid-container {
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    hr {
+        position: absolute;
+          top: 0;
+          left: 60px;
+          right: 60px;
+        width: auto;
+        height: 1px;
+        margin: 0;
+        background-color: $light__grey-1;
+    }
+
+    a {
+        display: block;
+        width: calc( 50% - 14px );
+        padding: 60px 0 72px;
+
+        background-color: $white;
+        transition:
+            background-color .3s,
+            padding .3s;
+        text-decoration: none;
+
+        .title {
+            padding-bottom: 8px;
+            color: $black;
+            @include desktop__28-bold;
+        }
+
+        .case-name {
+            color: $light__grey-3;
+            @include desktop__20-reg;
+        }
+
+        &:hover {
+            background-color: $light__grey_1;
+            padding-left: 60px;
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Tablet <= 1024
+// ============================================================================
+
+@media screen and (max-width: 1023px) {
+
+    // ============================================================================
+    // Problems
+    // ============================================================================
+
+    .problems-section {
+        padding-bottom: 85px;
+            
+    // Items
+    // ============================================================================
+
+        .wrapper {
+            flex-wrap: wrap;
+
+            .item {
+                width: calc( 50% - 14px );
+                padding-bottom: 45px;
+            }
+        }
+    }
+
+
+    // ============================================================================
+    // Design Comparison
+    // ============================================================================
+
+    .ipad-pro-section {
+        .ipad-mask { display: none }
+
+        .image-comparison-box {
+            position: relative;
+              top: 0;
+              left: 0;
+              right: 0;
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Tablet <= 768
+// ============================================================================
+
+@media screen and (max-width: 768px) {
+
+    // ============================================================================
+    // Content section
+    // ============================================================================
+
+    .content-section {
+
+        .design-image { padding-bottom: 28px }
+
+    // Title & descr
+    // ============================================================================
+
+        .title-dscr { padding-bottom: 32px }
+
+
+    // Desktop image left & description right, with safari
+    // ============================================================================
+
+        .design-image-and-descr {
+            flex-direction: column;
+
+            .design-image {
+                width: 100%;
+                padding-bottom: 60px;
+            }
+
+            .design-descr {
+                display: flex;
+                flex-direction: column;
+                order: -1;
+                width: 100%;
+                padding: 0 0 20px;
+
+                .item { width: 100% }
+            }
+        }
+    
+
+    // Desktop image in 1 col, with safari
+    // ============================================================================
+
+        .design-1col { flex-direction: column }
+
+
+    // Desktop image in 2 cols, with safari
+    // ============================================================================
+
+        .design-2cols {
+            flex-direction: column;
+            padding-bottom: 85px;
+
+            .design-image {
+                width: 100%;
+                padding-bottom: 40px;
+            }
+        }
+
+
+    // Desktop imager in 3, iphone
+    // ============================================================================
+
+        .design-3cols {
+            padding-bottom: 60px;
+
+            .design-image {
+                width: calc( 50% - 30px );
+                &.iphone {
+                    position: relative;
+                    filter:
+                        drop-shadow(0px 1.5px 3.4px rgba(0, 0, 0, 0.3))
+                        drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2))
+                        drop-shadow(0px 18px 46px rgba(0, 0, 0, 0.1));
+
+                    > img {
+                        position: absolute;
+                        top: 2.8%;
+                        left: 6.5%;
+                        width: 87%;
+                        z-index: -1;
+                    }
+                }
+            }
+
+            .design-descr {
+                order: -1;
+                width: 100%;
+                padding-top: 0;
+
+                .item {
+                    padding-bottom: 33px;
+
+                    .title { padding-bottom: 13px }
+
+                    &:last-child { padding-bottom: 0 }
+                }
+            }
+        }
+    }
+
+
+    // ============================================================================
+    // Case switcher
+    // ============================================================================
+
+    .case-switcher {
+        a {
+            &:hover {
+                background-color: inherit;
+                padding-left: 0;
+            }
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Mobile < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+
+    // ============================================================================
+    // Hero unit
+    // ============================================================================
+
+    .hero-screen {
+        position: relative;
+        padding: 61px 0 76px;
+
+
+    // Title, category & date
+    // ============================================================================
+
+        .title-box { padding-bottom: 20px }
+
+        .project-cat-date {
+            padding-bottom: 22px;
+            @include mobile__13-reg;
+
+            .category { padding-right: 16px }
+        }
+
+
+    // Description & blur
+    // ============================================================================
+
+        .project-descr { @include mobile__18-28-reg }
+    }
+
+
+    // ============================================================================
+    // Problems
+    // ============================================================================
+
+    .problems-section {
+        padding-bottom: 45px;
+
+        .section-title { padding-bottom: 20px }
+
+
+    // Items
+    // ============================================================================
+
+        .wrapper {
+            flex-direction: column;
+
+            .item {
+                width: 100%;
+                padding-bottom: 25px;
+            }
+        }
+    }
+
+
+    // ============================================================================
+    // Design Comparison
+    // ============================================================================
+
+    .ipad-pro-section { display: none }
+
+
+    // ============================================================================
+    // Content section
+    // ============================================================================
+
+    .content-section {
+        &:last-child { padding-bottom: 20px }
+
+        .design-image {
+            padding-bottom: 28px;
+            filter:
+                drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1))
+                drop-shadow(0px 3px 8px rgba(0, 0, 0, 0.05))
+                drop-shadow(0px 10px 18px rgba(0, 0, 0, 0.08))
+                drop-shadow(0px 16px 30px rgba(0, 0, 0, 0.04));
+        }
+
+    // Title & descr
+    // ============================================================================
+
+        .title-dscr {
+            padding-bottom: 19px;
+
+            .descr { @include mobile__18-28-reg }
+        }
+
+
+    // Desktop image left & description right, with safari
+    // ============================================================================
+
+        .design-image-and-descr {
+            padding-bottom: 35px;
+
+            .design-image { padding-bottom: 28px }
+
+            .design-descr {
+                .item { padding-bottom: 13px }
+            }
+        }
+    
+
+    // Desktop imager in 2 cols, with safari
+    // ============================================================================
+
+        .design-1col {
+            padding-bottom: 35px;
+
+            .design-image { padding-bottom: 28px }
+        }
+
+
+    // Desktop imager in 2 cols, with safari
+    // ============================================================================
+
+        .design-2cols {
+            padding-bottom: 35px;
+
+            .design-image {
+                padding-bottom: 28px;
+            }
+        }
+
+
+    // Desktop imager in 3, iphone
+    // ============================================================================
+
+        .design-3cols {
+            flex-direction: column;
+            padding-bottom: 35px;
+
+
+            .design-image {
+                width: 100%;
+                padding-bottom: 28px;
+
+                &.iphone {
+                    position: relative;
+                    filter:
+                        drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1))
+                        drop-shadow(0px 3px 8px rgba(0, 0, 0, 0.05))
+                        drop-shadow(0px 10px 18px rgba(0, 0, 0, 0.08))
+                        drop-shadow(0px 16px 30px rgba(0, 0, 0, 0.04));
+
+                    > img {
+                        position: relative;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                    }
+                }
+
+                .iphone-mask { display: none }
+            }
+
+            .design-descr {
+                padding-bottom: 20px;
+
+                .item {
+                    padding-bottom: 13px;
+
+                    &:last-child { padding-bottom: 13px; }
+                }
+            }
+        }
+    }
+
+
+    // ============================================================================
+    // Case switcher
+    // ============================================================================
+
+    .case-switcher {
+
+        hr {
+            left: 28px;
+            right: 28px;
+        }
+
+        a {
+            &.prev-case { display: none }
+
+            width: 100%;
+            padding: 65px 0 45px;
+
+            .title { @include mobile__24-bold }
+            .case-name { @include mobile__18-reg }
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Dark mode
+// ============================================================================
+
+body.dark {
+
+    // ============================================================================
+    // Hero unit
+    // ============================================================================
+
+    .hero-screen {
+    
+    // Title, category & date
+    // ============================================================================
+    
+        .project-cat-date { color: $dark__grey-3 }
+    
+    
+    // Description & blur
+    // ============================================================================
+    
+        .project-descr { color: $white }
+        .blur-bg .blur { background: $black-op }
+    }
+
+        
+    // ============================================================================
+    // Content section
+    // ============================================================================
+
+    .content-section {
+
+    // Title & descr
+    // ============================================================================
+
+        .title-dscr {
+            .descr { color: $dark__grey-4 }
+        }
+
+        .design-1col .design-image.darkmode-switcher,
+        .safari-bar {
+            .light { display: none }
+            .dark  { display: block }
+        }
+    }
+
+    
+    // ============================================================================
+    // Case switcher
+    // ============================================================================
+
+    .case-switcher {
+
+        hr {
+            background-color: $dark__grey-1 }
+
+        a {
+            background-color: $black;
+
+            .title { color: $white }
+            .case-name { color: $dark__grey-3 }
+            &:hover { background-color: $dark__grey_1 }
+        }
+    }
+
+}
