@@ -38,6 +38,22 @@ header {
     }
 
 
+// Mobile title
+// ============================================================================
+
+    .mobile-title {
+        display: none;
+        flex: 1;
+        padding: 5px 0 0 24px;
+
+        transition: opacity .24s;
+        color: $light__grey-4;
+        @include desktop__20-bold;
+
+        &.hide { opacity: 0 }
+    }
+
+
 // Main navigation
 // ============================================================================
 
@@ -250,7 +266,11 @@ header {
     
         .grid-container { justify-content: space-between }
 
+        .mobile-title { display: block }
+
         .logo-box {
+            width: 44px;
+
             a {
                 width: 44px;
                 height: 36px;

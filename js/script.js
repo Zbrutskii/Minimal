@@ -30,6 +30,7 @@ $('.mobile-nav-toggle').click(function(){
     $('body').toggleClass('fix');
     $('.mobile-nav-toggle').toggleClass('show');
     $('.mobile-menu').toggleClass('show');
+    $('.mobile-title').toggleClass('hide');
 });
 
 

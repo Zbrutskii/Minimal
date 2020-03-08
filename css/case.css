@@ -494,7 +494,8 @@ hr {
           padding-bottom: 13px; }
   .case-switcher hr {
     left: 28px;
-    right: 28px; }
+    right: 28px;
+    height: 0.5px; }
   .case-switcher a {
     width: 100%;
     padding: 65px 0 45px; }

@@ -1,0 +1,111 @@
+@import "components.scss";
+
+.main-content {
+    padding: 80px 0 60px;
+
+    .grid-container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .col { width: calc( ( 100% - 56px ) / 3 ) }
+
+
+// Counter box
+// ============================================================================
+
+    .col.counters {
+        h1 { display: block; }
+    }
+
+
+// Text boxes
+// ============================================================================
+
+    .col.text {
+        padding-top: 16px;
+
+        span {
+            display: block;
+            color: $black;
+            @include desktop__20-32-reg;
+            padding-bottom: 20px;
+        }
+    }
+}
+
+
+// ============================================================================
+// Tablet < 1024
+// ============================================================================
+
+@media screen and (max-width: 1023px) {
+    .main-content {
+    
+        .grid-container { flex-wrap: wrap }
+    
+    // Counter box
+    // ============================================================================
+    
+        .col.counters { width: 100% }
+    
+    
+    // Text boxes
+    // ============================================================================
+    
+        .col.text {
+            padding-top: 45px;
+            width: calc( 50% - 14px );
+        }
+    }
+}
+
+
+// ============================================================================
+// Tablet < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+    .main-content {
+        padding: 63px 0 30px;
+    
+        .grid-container { flex-wrap: wrap }
+    
+    // Counter box
+    // ============================================================================
+    
+        .col.counters { padding-bottom: 47px; }
+    
+    
+    // Text boxes
+    // ============================================================================
+    
+        .col.text {
+            width: 100%;
+            padding-top: 0;
+
+            span {
+                @include mobile__18-28-reg;
+                padding-bottom: 12px;
+            }
+        }
+    }
+}
+
+
+
+// ============================================================================
+// Dark mode
+// ============================================================================
+
+body.dark {
+    .main-content {
+
+    // Text boxes
+    // ============================================================================
+
+        .col.text {
+            span { color: $white }
+        }
+    }
+}
