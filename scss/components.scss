@@ -29,6 +29,13 @@ $dark__grey-4: #DFDFDF;
     padding:   0 60px;
 }
 
+.grid-container-slim {
+    width:     100%;
+    max-width: 948px;
+    margin:    auto;
+    padding:   0 60px;
+}
+
 
 // Text styles
 // ============================================================================
@@ -168,6 +175,11 @@ hr {
 
         &:hover { transform: scale(1.03); }
     }
+
+    &.button-border {
+        @include desktop__20-reg;
+        border: 1px solid;
+    }
 }
 
 
@@ -201,11 +213,9 @@ hr {
 
 
 @media screen and (max-width: 639px) {
-    .grid-container {
-        width:     100%;
-        max-width: 1440px;
-        margin:    auto;
-        padding:   0 24px;
+    .grid-container,
+    .grid-container-slim {
+        padding: 0 24px;
     }
 
 
@@ -213,10 +223,15 @@ hr {
     // ============================================================================
 
     .button {
-        padding-top: 13px;
+        padding-top: 12px;
 
         &.button-text {
             @include mobile__18-bold;
+        }
+
+        &.button-black,
+        &.button-border {
+            @include mobile__18-reg;
         }
     }
 }

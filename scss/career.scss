@@ -1,0 +1,167 @@
+@import "components.scss";
+
+.main-content {
+    padding: 80px 0 60px;
+
+    .career-item {
+        padding-bottom: 67px;
+
+        &:last-child { padding-bottom: 0; }
+
+        .title-box {
+            padding-bottom: 16px;
+        }
+
+        .descr {
+            padding-bottom: 22px;
+
+            span {
+                color: $light__grey-4;
+                @include desktop__20-32-reg;
+            }
+        }
+
+        .list {
+            padding-bottom: 19px;
+
+            .list-title {
+                padding-bottom: 7px;
+            }
+
+            ul li {
+                position: relative;
+                padding: 6px 0 6px 18px;
+
+                color: $light__grey-4;
+                @include desktop__16-reg;
+
+                &:before {
+                    content: '';
+                    position: absolute;
+                      top: 16px;
+                      left: 1px;
+                    width: 6px;
+                    height: 6px;
+                    background-color: $black;
+                }
+            }
+        }
+
+        .button-apply {
+            padding-top: 7px;
+
+            .button {
+                width: 240px;
+
+                color: $black;
+                border-color: $black;
+                background-color: $white;
+
+                &:hover {
+                    color: $white;
+                    border-color: $white;
+                    background-color: $black;
+                }
+            }
+        }
+    }
+}
+
+
+// ============================================================================
+// Tablet < 640
+// ============================================================================
+
+@media screen and (max-width: 639px) {
+    .main-content {
+        padding: 63px 0 30px;
+
+        .career-item {
+            padding-bottom: 67px;
+
+            .descr {
+                span {
+                    @include mobile__18-28-reg;
+                }
+            }
+
+            .list {
+                padding-bottom: 19px;
+
+                .list-title {
+                    padding-bottom: 7px;
+                }
+
+                ul li {
+                    padding: 4px 0 4px 16px;
+                    @include mobile__15-reg;
+
+                    &:before {
+                        top: 12px;
+                        left: 1px;
+                        width: 5px;
+                        height: 5px;
+                    }
+                }
+            }
+
+            .button-apply {
+                padding-top: 7px;
+
+                .button {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+// ============================================================================
+// Dark mode
+// ============================================================================
+
+body.dark {
+    .main-content {
+        .career-item {
+
+            .descr {
+                span {
+                    color: $dark__grey-4;
+                }
+            }
+
+            .list {
+                .list-title {
+                    h4 {
+                        color: $white;
+                    }
+                }
+
+                ul li {
+                    color: $dark__grey-4;
+                    &:before {
+                        background-color: $dark__grey-4;
+                    }
+                }
+            }
+
+            .button-apply {
+                .button {
+                    color: $white;
+                    border-color: $dark__grey-3;
+                    background-color: $black;
+
+                    &:hover {
+                        color: $black;
+                        border-color: $black;
+                        background-color: $white;
+                    }
+                }
+            }
+        }
+    }
+}
