@@ -144,8 +144,8 @@ hr {
 .ipad-pro-section {
   position: relative;
   padding-bottom: 127px;
-  -webkit-filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.19)) drop-shadow(0px 18px 47px rgba(0, 0, 0, 0.11));
-  filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.19)) drop-shadow(0px 18px 47px rgba(0, 0, 0, 0.11)); }
+  -webkit-filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.19));
+  filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.19)); }
   .ipad-pro-section .ipad-mask {
     pointer-events: none; }
     .ipad-pro-section .ipad-mask img {
@@ -184,8 +184,8 @@ hr {
 
 .content-section .design-image {
   padding-bottom: 28px;
-  -webkit-filter: drop-shadow(0px 1.5px 2.7px rgba(0, 0, 0, 0.02)) drop-shadow(0px 3.7px 7px rgba(0, 0, 0, 0.03)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04)) drop-shadow(0px 16px 29px rgba(0, 0, 0, 0.05)) drop-shadow(0px 43px 80px rgba(0, 0, 0, 0.07));
-  filter: drop-shadow(0px 1.5px 2.7px rgba(0, 0, 0, 0.02)) drop-shadow(0px 3.7px 7px rgba(0, 0, 0, 0.03)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04)) drop-shadow(0px 16px 29px rgba(0, 0, 0, 0.05)) drop-shadow(0px 43px 80px rgba(0, 0, 0, 0.07)); }
+  -webkit-filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+  filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04)); }
   .content-section .design-image img {
     width: 100%;
     height: auto; }
@@ -271,8 +271,8 @@ hr {
     padding-bottom: 60px; }
   .content-section .design-3cols .design-image.iphone {
     position: relative;
-    -webkit-filter: drop-shadow(0px 1.5px 3.4px rgba(0, 0, 0, 0.3)) drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2)) drop-shadow(0px 18px 46px rgba(0, 0, 0, 0.1));
-    filter: drop-shadow(0px 1.5px 3.4px rgba(0, 0, 0, 0.3)) drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2)) drop-shadow(0px 18px 46px rgba(0, 0, 0, 0.1)); }
+    -webkit-filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04)); }
     .content-section .design-3cols .design-image.iphone > img {
       position: absolute;
       top: 2.8%;
@@ -397,8 +397,8 @@ hr {
       width: calc( 50% - 30px); }
       .content-section .design-3cols .design-image.iphone {
         position: relative;
-        -webkit-filter: drop-shadow(0px 1.5px 3.4px rgba(0, 0, 0, 0.3)) drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2)) drop-shadow(0px 18px 46px rgba(0, 0, 0, 0.1));
-        filter: drop-shadow(0px 1.5px 3.4px rgba(0, 0, 0, 0.3)) drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2)) drop-shadow(0px 18px 46px rgba(0, 0, 0, 0.1)); }
+        -webkit-filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+        filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04)); }
         .content-section .design-3cols .design-image.iphone > img {
           position: absolute;
           top: 2.8%;
@@ -458,8 +458,8 @@ hr {
     padding-bottom: 20px; }
   .content-section .design-image {
     padding-bottom: 28px;
-    -webkit-filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1)) drop-shadow(0px 3px 8px rgba(0, 0, 0, 0.05)) drop-shadow(0px 10px 18px rgba(0, 0, 0, 0.08)) drop-shadow(0px 16px 30px rgba(0, 0, 0, 0.04));
-    filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1)) drop-shadow(0px 3px 8px rgba(0, 0, 0, 0.05)) drop-shadow(0px 10px 18px rgba(0, 0, 0, 0.08)) drop-shadow(0px 16px 30px rgba(0, 0, 0, 0.04)); }
+    -webkit-filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+    filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04)); }
   .content-section .title-dscr {
     padding-bottom: 19px; }
     .content-section .title-dscr .descr {
@@ -492,8 +492,8 @@ hr {
       padding-bottom: 28px; }
       .content-section .design-3cols .design-image.iphone {
         position: relative;
-        -webkit-filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1)) drop-shadow(0px 3px 8px rgba(0, 0, 0, 0.05)) drop-shadow(0px 10px 18px rgba(0, 0, 0, 0.08)) drop-shadow(0px 16px 30px rgba(0, 0, 0, 0.04));
-        filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1)) drop-shadow(0px 3px 8px rgba(0, 0, 0, 0.05)) drop-shadow(0px 10px 18px rgba(0, 0, 0, 0.08)) drop-shadow(0px 16px 30px rgba(0, 0, 0, 0.04)); }
+        -webkit-filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+        filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02)) drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04)); }
         .content-section .design-3cols .design-image.iphone > img {
           position: relative;
           top: 0;
