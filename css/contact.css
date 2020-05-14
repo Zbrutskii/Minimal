@@ -179,10 +179,12 @@ hr {
         .main-content .form-box form .field-item input:hover + label, .main-content .form-box form .field-item textarea:hover + label {
           color: #343434; }
         .main-content .form-box form .field-item input:focus, .main-content .form-box form .field-item textarea:focus,
-        .main-content .form-box form .field-item input.filled, .main-content .form-box form .field-item textarea.filled {
+        .main-content .form-box form .field-item input.filled, .main-content .form-box form .field-item textarea.filled,
+        .main-content .form-box form .field-item input:valid, .main-content .form-box form .field-item textarea:valid {
           border-bottom-color: #343434; }
           .main-content .form-box form .field-item input:focus + label, .main-content .form-box form .field-item textarea:focus + label,
-          .main-content .form-box form .field-item input.filled + label, .main-content .form-box form .field-item textarea.filled + label {
+          .main-content .form-box form .field-item input.filled + label, .main-content .form-box form .field-item textarea.filled + label,
+          .main-content .form-box form .field-item input:valid + label, .main-content .form-box form .field-item textarea:valid + label {
             top: -8px;
             -webkit-transform: scale(0.7);
             -ms-transform: scale(0.7);
@@ -190,7 +192,6 @@ hr {
       .main-content .form-box form .button-black {
         width: 100%;
         margin-top: 20px;
-        padding-bottom: 4px;
         background-color: #343434;
         color: #FFFFFF; }
     .main-content .form-box .agreement {

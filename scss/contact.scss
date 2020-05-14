@@ -122,7 +122,8 @@
                 }
 
                 input:focus, textarea:focus,
-                input.filled, textarea.filled {
+                input.filled, textarea.filled,
+                input:valid, textarea:valid {
                     border-bottom-color: $light__grey-4;
 
                     & + label {
@@ -135,7 +136,6 @@
             .button-black {
                 width: 100%;
                 margin-top: 20px;
-                padding-bottom: 4px;
 
                 background-color: $light__grey-4;
                 color: $white;
