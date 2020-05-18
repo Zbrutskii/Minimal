@@ -17,6 +17,14 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.htaccess",
+		"oF": 0
+		},
 	"/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -284,6 +292,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/backup/Minimal-02-03-20.zip",
+		"oF": 0
+		},
+	"/build/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/.gitignore",
 		"oF": 0
 		},
 	"/career.html": {
@@ -32485,8 +32501,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Coin - full info@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32507,8 +32523,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Coin release@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32518,8 +32534,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Coin@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32605,8 +32621,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Home1@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32627,8 +32643,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Home3@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32638,8 +32654,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Home4@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32649,8 +32665,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Home@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32703,8 +32719,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/order info number@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32714,8 +32730,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/orders info hover@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32725,8 +32741,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/orders info@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32736,8 +32752,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Privacy policy@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32747,8 +32763,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Prod catalog1@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32758,8 +32774,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Prod catalog2@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32769,8 +32785,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Prod catalog3@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32780,8 +32796,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Prod catalog4@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32791,8 +32807,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Prod catalog@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32802,10 +32818,21 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Profile edit@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/react/es5-sham.min-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/react/es5-sham.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/react/es5-sham.min.js": {
 		"bF": 0,
@@ -32814,6 +32841,17 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/react/es5-sham.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/react/es5-shim.min-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/react/es5-shim.min-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -32835,8 +32873,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Registration@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32846,8 +32884,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Reset password@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32890,8 +32928,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/Success@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32901,8 +32939,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_About@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32912,8 +32950,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_accountDropdown@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32925,7 +32963,7 @@
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_alt@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_Blog@2x.png": {
@@ -32934,8 +32972,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_Blog@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32945,8 +32983,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_Cart@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32956,8 +32994,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_checkout -Nova poshta@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32967,8 +33005,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_Checkout@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -32978,8 +33016,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_Coin - full info@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -33022,8 +33060,8 @@
 		"oA": 0,
 		"oAP": "/cases-simple/national-bank-of-ukraine/desktop-prototype/assets/thumb_Comparison@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
