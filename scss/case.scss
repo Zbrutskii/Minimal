@@ -165,8 +165,8 @@
         padding-bottom: 28px;
 
         filter:
-            drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02))
-            drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+            drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1))
+            drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.035));
 
         img {
             width: 100%;
@@ -276,8 +276,8 @@
             &.iphone {
                 position: relative;
                 filter:
-                    drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02))
-                    drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+                    drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.3))
+                    drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2));
 
                 > img {
                     position: absolute;
@@ -477,8 +477,8 @@
                 &.iphone {
                     position: relative;
                     filter:
-                        drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02))
-                        drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+                        drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.3))
+                        drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2));
 
                     > img {
                         position: absolute;
@@ -599,8 +599,8 @@
         .design-image {
             padding-bottom: 28px;
             filter:
-                drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02))
-                drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+                drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1))
+                drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.035));
         }
 
     // Title & descr
@@ -664,8 +664,8 @@
                 &.iphone {
                     position: relative;
                     filter:
-                        drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.02))
-                        drop-shadow(0px 8px 14px rgba(0, 0, 0, 0.04));
+                        drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.3))
+                        drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.2));
 
                     > img {
                         position: relative;
