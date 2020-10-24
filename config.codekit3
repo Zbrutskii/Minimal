@@ -7,7 +7,7 @@
 		"uuidString": "597E06AA-30F0-4227-996B-C8E943FE7518"
 		}
 	],
-"creatorBuild": "32147",
+"creatorBuild": "32186",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -285,22 +285,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"/backup/Minimal-02-03-20.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/backup/Minimal-02-03-20.zip",
-		"oF": 0
-		},
-	"/build/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/.gitignore",
-		"oF": 0
 		},
 	"/career.html": {
 		"cB": 0,
@@ -44422,298 +44406,567 @@
 		"oAP": "/cases-simple/xdoc/index.html",
 		"oF": 0
 		},
-	"/cases/12-2019-Alpha-Catering/blur-cover.png": {
+	"/cases/alpha-catering/blur-cover.png": {
 		"ft": 32768,
 		"iS": 1746,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/blur-cover.png",
+		"oAP": "/cases/alpha-catering/blur-cover.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/comparison/after.jpg": {
+	"/cases/alpha-catering/comparison/after.jpg": {
 		"ft": 16384,
 		"iS": 1931674,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/comparison/after.jpg",
+		"oAP": "/cases/alpha-catering/comparison/after.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/comparison/before.jpg": {
+	"/cases/alpha-catering/comparison/before.jpg": {
 		"ft": 16384,
 		"iS": 1681020,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/comparison/before.jpg",
+		"oAP": "/cases/alpha-catering/comparison/before.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/about-us-cropped.jpg": {
+	"/cases/alpha-catering/desktop/about-us-cropped.jpg": {
 		"ft": 16384,
 		"iS": 746903,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/about-us-cropped.jpg",
+		"oAP": "/cases/alpha-catering/desktop/about-us-cropped.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/blogpost-cropped.png": {
+	"/cases/alpha-catering/desktop/blogpost-cropped.png": {
 		"ft": 32768,
 		"iS": 883454,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/blogpost-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/blogpost-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/brands-cropped.png": {
+	"/cases/alpha-catering/desktop/brands-cropped.png": {
 		"ft": 32768,
 		"iS": 137490,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/brands-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/brands-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/cart-cropped.jpg": {
+	"/cases/alpha-catering/desktop/cart-cropped.jpg": {
 		"ft": 16384,
 		"iS": 394934,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/cart-cropped.jpg",
+		"oAP": "/cases/alpha-catering/desktop/cart-cropped.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/cart-popover-cropped.png": {
+	"/cases/alpha-catering/desktop/cart-popover-cropped.png": {
 		"ft": 32768,
 		"iS": 624141,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/cart-popover-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/cart-popover-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/category-cropped.png": {
+	"/cases/alpha-catering/desktop/category-cropped.png": {
 		"ft": 32768,
 		"iS": 305178,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/category-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/category-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/catering-hub-cropped.png": {
+	"/cases/alpha-catering/desktop/catering-hub-cropped.png": {
 		"ft": 32768,
 		"iS": 1518314,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/catering-hub-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/catering-hub-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/home.jpg": {
+	"/cases/alpha-catering/desktop/home.jpg": {
 		"ft": 16384,
 		"iS": 1214231,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/home.jpg",
+		"oAP": "/cases/alpha-catering/desktop/home.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/prod-cropped.png": {
+	"/cases/alpha-catering/desktop/prod-cropped.png": {
 		"ft": 32768,
 		"iS": 311645,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/prod-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/prod-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/prod-scrolled-cropped.png": {
+	"/cases/alpha-catering/desktop/prod-scrolled-cropped.png": {
 		"ft": 32768,
 		"iS": 236240,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/prod-scrolled-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/prod-scrolled-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/quote-cropped.png": {
+	"/cases/alpha-catering/desktop/quote-cropped.png": {
 		"ft": 32768,
 		"iS": 136927,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/quote-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/quote-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/search-cropped.png": {
+	"/cases/alpha-catering/desktop/search-cropped.png": {
 		"ft": 32768,
 		"iS": 384130,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/search-cropped.png",
+		"oAP": "/cases/alpha-catering/desktop/search-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/desktop/subcategory.jpg": {
+	"/cases/alpha-catering/desktop/subcategory.jpg": {
 		"ft": 16384,
 		"iS": 717178,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/desktop/subcategory.jpg",
+		"oAP": "/cases/alpha-catering/desktop/subcategory.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/cart.jpg": {
+	"/cases/alpha-catering/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/cases/alpha-catering/index.html",
+		"oF": 0
+		},
+	"/cases/alpha-catering/iphone/cart.jpg": {
 		"ft": 16384,
 		"iS": 80971,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/cart.jpg",
+		"oAP": "/cases/alpha-catering/iphone/cart.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/catalog-sort.jpg": {
+	"/cases/alpha-catering/iphone/catalog-sort.jpg": {
 		"ft": 16384,
 		"iS": 67723,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/catalog-sort.jpg",
+		"oAP": "/cases/alpha-catering/iphone/catalog-sort.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/catalog.jpg": {
+	"/cases/alpha-catering/iphone/catalog.jpg": {
 		"ft": 16384,
 		"iS": 94167,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/catalog.jpg",
+		"oAP": "/cases/alpha-catering/iphone/catalog.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/home-1.jpg": {
+	"/cases/alpha-catering/iphone/home-1.jpg": {
 		"ft": 16384,
 		"iS": 129073,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/home-1.jpg",
+		"oAP": "/cases/alpha-catering/iphone/home-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/home-2.jpg": {
+	"/cases/alpha-catering/iphone/home-2.jpg": {
 		"ft": 16384,
 		"iS": 100562,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/home-2.jpg",
+		"oAP": "/cases/alpha-catering/iphone/home-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/mobile-menu.jpg": {
+	"/cases/alpha-catering/iphone/mobile-menu.jpg": {
 		"ft": 16384,
 		"iS": 87535,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/mobile-menu.jpg",
+		"oAP": "/cases/alpha-catering/iphone/mobile-menu.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/prod-page-1.jpg": {
+	"/cases/alpha-catering/iphone/prod-page-1.jpg": {
 		"ft": 16384,
 		"iS": 90500,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/prod-page-1.jpg",
+		"oAP": "/cases/alpha-catering/iphone/prod-page-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/iphone/prod-page-2.jpg": {
+	"/cases/alpha-catering/iphone/prod-page-2.jpg": {
 		"ft": 16384,
 		"iS": 85336,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/iphone/prod-page-2.jpg",
+		"oAP": "/cases/alpha-catering/iphone/prod-page-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/og-image.jpg": {
+	"/cases/alpha-catering/og-image.jpg": {
 		"ft": 16384,
 		"iS": 57675,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/og-image.jpg",
+		"oAP": "/cases/alpha-catering/og-image.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/ui-dark.jpg": {
+	"/cases/alpha-catering/ui-dark.jpg": {
 		"ft": 16384,
 		"iS": 237378,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/ui-dark.jpg",
+		"oAP": "/cases/alpha-catering/ui-dark.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/12-2019-Alpha-Catering/ui-light.jpg": {
+	"/cases/alpha-catering/ui-light.jpg": {
 		"ft": 16384,
 		"iS": 226767,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/12-2019-Alpha-Catering/ui-light.jpg",
+		"oAP": "/cases/alpha-catering/ui-light.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/blur-cover.png": {
+		"ft": 32768,
+		"iS": 1746,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/blur-cover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/about-us-cropped.jpg": {
+		"ft": 16384,
+		"iS": 746903,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/about-us-cropped.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/blogpost-cropped.png": {
+		"ft": 32768,
+		"iS": 883454,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/blogpost-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/brands-cropped.png": {
+		"ft": 32768,
+		"iS": 137490,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/brands-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/cart-cropped.jpg": {
+		"ft": 16384,
+		"iS": 394934,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/cart-cropped.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/cart-popover-cropped.png": {
+		"ft": 32768,
+		"iS": 624141,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/cart-popover-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/category-cropped.png": {
+		"ft": 32768,
+		"iS": 305178,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/category-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/catering-hub-cropped.png": {
+		"ft": 32768,
+		"iS": 1518314,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/catering-hub-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/home.jpg": {
+		"ft": 16384,
+		"iS": 1214231,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/prod-cropped.png": {
+		"ft": 32768,
+		"iS": 311645,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/prod-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/prod-scrolled-cropped.png": {
+		"ft": 32768,
+		"iS": 236240,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/prod-scrolled-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/quote-cropped.png": {
+		"ft": 32768,
+		"iS": 136927,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/quote-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/search-cropped.png": {
+		"ft": 32768,
+		"iS": 384130,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/search-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/subcategory.jpg": {
+		"ft": 16384,
+		"iS": 717178,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/subcategory.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/index.html",
+		"oF": 0
+		},
+	"/cases/national-bank-of-ukraine/iphone/cart.jpg": {
+		"ft": 16384,
+		"iS": 80971,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/cart.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/iphone/catalog-sort.jpg": {
+		"ft": 16384,
+		"iS": 67723,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/catalog-sort.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/iphone/catalog.jpg": {
+		"ft": 16384,
+		"iS": 94167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/catalog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/iphone/home-1.jpg": {
+		"ft": 16384,
+		"iS": 129073,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/home-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/iphone/home-2.jpg": {
+		"ft": 16384,
+		"iS": 100562,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/home-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/iphone/mobile-menu.jpg": {
+		"ft": 16384,
+		"iS": 87535,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/mobile-menu.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/iphone/prod-page-1.jpg": {
+		"ft": 16384,
+		"iS": 90500,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/prod-page-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/iphone/prod-page-2.jpg": {
+		"ft": 16384,
+		"iS": 85336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/iphone/prod-page-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/og-image.jpg": {
+		"ft": 16384,
+		"iS": 57675,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/og-image.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -45677,6 +45930,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -46089,6 +46346,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -46204,6 +46465,10 @@
 		"no-regex-spaces": {
 			"active": 1,
 			"optionString": ""
+			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
 			},
 		"no-restricted-globals": {
 			"active": 0,
@@ -46348,6 +46613,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
