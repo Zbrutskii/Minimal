@@ -26096,2191 +26096,2191 @@
 		"oAP": "/cases-simple/loanscription/index.html",
 		"oF": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/3@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/3@2x.jpg": {
 		"ft": 16384,
 		"iS": 252726,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/3@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/3@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/base-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/base-sprite.png": {
 		"ft": 32768,
 		"iS": 6056,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/base-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/base-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/base-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/base-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 11294,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/base-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/base-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/blank.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/blank.png": {
 		"ft": 32768,
 		"iS": 2006,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/blank.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/blank.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/boards-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/boards-sprite.png": {
 		"ft": 32768,
 		"iS": 116662,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/boards-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/boards-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/boards-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/boards-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 190563,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/boards-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/boards-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/comments-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/comments-sprite.png": {
 		"ft": 32768,
 		"iS": 5324,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/comments-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/comments-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/comments-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/comments-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 9613,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/comments-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/comments-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/console-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/console-sprite.png": {
 		"ft": 32768,
 		"iS": 34183,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/console-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/console-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/console-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/console-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 63196,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/console-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/console-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/delete.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/delete.png": {
 		"ft": 32768,
 		"iS": 201,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/delete.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/delete.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/emojis-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/emojis-sprite.png": {
 		"ft": 32768,
 		"iS": 758347,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/emojis-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/emojis-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/emojis-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/emojis-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 2106763,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/emojis-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/emojis-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/favicon-16x16.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 411,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/favicon-16x16.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/favicon-32x32.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 783,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/favicon-32x32.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/landing-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/landing-sprite.png": {
 		"ft": 32768,
 		"iS": 7038,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/landing-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/landing-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/landing-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/landing-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 11946,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/landing-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/landing-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/logos-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/logos-sprite.png": {
 		"ft": 32768,
 		"iS": 2701,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/logos-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/logos-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/logos-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/logos-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 3993,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/logos-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/logos-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mentions-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mentions-sprite.png": {
 		"ft": 32768,
 		"iS": 1542,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mentions-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mentions-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mentions-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mentions-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 1694,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mentions-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mentions-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-hover.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-hover.png": {
 		"ft": 32768,
 		"iS": 1667,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-hover.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-hover.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-hover@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-hover@2x.png": {
 		"ft": 32768,
 		"iS": 4245,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-hover@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-hover@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-tap.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-tap.png": {
 		"ft": 32768,
 		"iS": 1019,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-tap.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-tap.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-tap@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-tap@2x.png": {
 		"ft": 32768,
 		"iS": 2134,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor-tap@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor-tap@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor.png": {
 		"ft": 32768,
 		"iS": 2206,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor@2x.png": {
 		"ft": 32768,
 		"iS": 5524,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-cursor@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-cursor@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow.png": {
 		"ft": 32768,
 		"iS": 122,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow@2x.png": {
 		"ft": 32768,
 		"iS": 147,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/mobile-transition-box-shadow@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/nav-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/nav-sprite.png": {
 		"ft": 32768,
 		"iS": 21600,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/nav-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/nav-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/nav-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/nav-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 38138,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/nav-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/nav-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/no-results-illustration.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/no-results-illustration.png": {
 		"ft": 32768,
 		"iS": 16416,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/no-results-illustration.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/no-results-illustration.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/preview-arrow-next.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/preview-arrow-next.png": {
 		"ft": 32768,
 		"iS": 1310,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/preview-arrow-next.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/preview-arrow-next.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/preview-arrow-prev.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/preview-arrow-prev.png": {
 		"ft": 32768,
 		"iS": 1314,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/preview-arrow-prev.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/preview-arrow-prev.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/project-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/project-sprite.png": {
 		"ft": 32768,
 		"iS": 98043,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/project-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/project-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/project-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/project-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 170513,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/project-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/project-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/projects-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/projects-sprite.png": {
 		"ft": 32768,
 		"iS": 2684,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/projects-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/projects-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/projects-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/projects-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 4652,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/projects-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/projects-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/screen-viewer-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/screen-viewer-sprite.png": {
 		"ft": 32768,
 		"iS": 318,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/screen-viewer-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/screen-viewer-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/screen-viewer-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/screen-viewer-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 476,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/screen-viewer-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/screen-viewer-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/share-modal-sprites-common.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/share-modal-sprites-common.png": {
 		"ft": 32768,
 		"iS": 5896,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/share-modal-sprites-common.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/share-modal-sprites-common.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/share-modal-sprites-common@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/share-modal-sprites-common@2x.png": {
 		"ft": 32768,
 		"iS": 14237,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/share-modal-sprites-common@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/share-modal-sprites-common@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/sketch-viewer-close.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/sketch-viewer-close.png": {
 		"ft": 32768,
 		"iS": 2080,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/sketch-viewer-close.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/sketch-viewer-close.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/snaps-sprite-x2.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/snaps-sprite-x2.png": {
 		"ft": 32768,
 		"iS": 16943,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/snaps-sprite-x2.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/snaps-sprite-x2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/snaps-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/snaps-sprite.png": {
 		"ft": 32768,
 		"iS": 7743,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/snaps-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/snaps-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/snaps-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/snaps-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 12386,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/snaps-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/snaps-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/uploader-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/uploader-sprite.png": {
 		"ft": 32768,
 		"iS": 8101,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/uploader-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/uploader-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/common/img/uploader-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/common/img/uploader-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 6699,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/common/img/uploader-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/common/img/uploader-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/css-static/bootstrap.css": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/css-static/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/css-static/bootstrap-min.css",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/css-static/bootstrap-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/css-static/intlTelInput.css": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/css-static/intlTelInput.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/css-static/intlTelInput-min.css",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/css-static/intlTelInput-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/css-static/uniform.default.css": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/css-static/uniform.default.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/css-static/uniform.default-min.css",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/css-static/uniform.default-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/css/share-offline.css": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/css/share-offline.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/css/share-offline-min.css",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/css/share-offline-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/app-switch.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/app-switch.png": {
 		"ft": 32768,
 		"iS": 3757,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/app-switch.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/app-switch.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/archive.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/archive.png": {
 		"ft": 32768,
 		"iS": 18430,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/archive.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/archive.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browse-background.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browse-background.png": {
 		"ft": 32768,
 		"iS": 8354,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browse-background.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browse-background.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browse-pillnav-icons.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browse-pillnav-icons.png": {
 		"ft": 32768,
 		"iS": 233,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browse-pillnav-icons.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browse-pillnav-icons.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browse-pillnav.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browse-pillnav.png": {
 		"ft": 32768,
 		"iS": 20168,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browse-pillnav.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browse-pillnav.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browser-compatibility-alert.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browser-compatibility-alert.png": {
 		"ft": 32768,
 		"iS": 433,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browser-compatibility-alert.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browser-compatibility-alert.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browser-compatibility-close.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browser-compatibility-close.png": {
 		"ft": 32768,
 		"iS": 186,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/browser-compatibility-close.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/browser-compatibility-close.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/btn-green.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/btn-green.png": {
 		"ft": 32768,
 		"iS": 12742,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/btn-green.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/btn-green.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/check-sm.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/check-sm.png": {
 		"ft": 32768,
 		"iS": 81,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/check-sm.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/check-sm.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/check.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/check.png": {
 		"ft": 32768,
 		"iS": 315,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/check.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/check.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close2@2x.png": {
 		"ft": 32768,
 		"iS": 175,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close3.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close3.png": {
 		"ft": 32768,
 		"iS": 158,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close3.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close3.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close5-V2.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close5-V2.png": {
 		"ft": 32768,
 		"iS": 416,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close5-V2.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close5-V2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close5-white-V2.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close5-white-V2.png": {
 		"ft": 32768,
 		"iS": 413,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close5-white-V2.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close5-white-V2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close5.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close5.png": {
 		"ft": 32768,
 		"iS": 253,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close5.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close5.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close6.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close6.png": {
 		"ft": 32768,
 		"iS": 223,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/close6.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/close6.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/comments-context-tab.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/comments-context-tab.png": {
 		"ft": 32768,
 		"iS": 792,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/comments-context-tab.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/comments-context-tab.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/comments-vrule.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/comments-vrule.png": {
 		"ft": 32768,
 		"iS": 367,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/comments-vrule.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/comments-vrule.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-circle.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-circle.png": {
 		"ft": 32768,
 		"iS": 672,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-circle.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-circle.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-circle@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-circle@2x.png": {
 		"ft": 32768,
 		"iS": 977,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-circle@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-circle@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-line.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-line.png": {
 		"ft": 32768,
 		"iS": 359,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-line.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-line.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-line@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-line@2x.png": {
 		"ft": 32768,
 		"iS": 422,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-line@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-line@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-pen.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-pen.png": {
 		"ft": 32768,
 		"iS": 504,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-pen.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-pen.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-pen@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-pen@2x.png": {
 		"ft": 32768,
 		"iS": 661,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-pen@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-pen@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-square.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-square.png": {
 		"ft": 32768,
 		"iS": 459,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-square.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-square.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-square@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-square@2x.png": {
 		"ft": 32768,
 		"iS": 617,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/cursor-square@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/cursor-square@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/custom-share-branding-logo@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/custom-share-branding-logo@2x.png": {
 		"ft": 32768,
 		"iS": 1925,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/custom-share-branding-logo@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/custom-share-branding-logo@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/draw.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/draw.png": {
 		"ft": 32768,
 		"iS": 872,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/draw.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/draw.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/draw@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/draw@2x.png": {
 		"ft": 32768,
 		"iS": 1728,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/draw@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/draw@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/email@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/email@2x.png": {
 		"ft": 32768,
 		"iS": 571,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/email@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/email@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/flags16-share.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/flags16-share.png": {
 		"ft": 32768,
 		"iS": 62000,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/flags16-share.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/flags16-share.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/grey-screen-divider.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/grey-screen-divider.png": {
 		"ft": 32768,
 		"iS": 87,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/grey-screen-divider.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/grey-screen-divider.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/icon.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/icon.png": {
 		"ft": 32768,
 		"iS": 1652,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/icon.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in.png": {
 		"ft": 32768,
 		"iS": 2926,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in@2x.png": {
 		"ft": 32768,
 		"iS": 7872,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in_small.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in_small.png": {
 		"ft": 32768,
 		"iS": 1395,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in_small.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in_small.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in_small@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in_small@2x.png": {
 		"ft": 32768,
 		"iS": 3505,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/in_small@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/in_small@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/loader-logo.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/loader-logo.png": {
 		"ft": 32768,
 		"iS": 2567,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/loader-logo.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/loader-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/loader-logo@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/loader-logo@2x.png": {
 		"ft": 32768,
 		"iS": 5420,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/loader-logo@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/loader-logo@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/loader-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/loader-sprite.png": {
 		"ft": 32768,
 		"iS": 15150,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/loader-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/loader-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/login-header-background.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/login-header-background.png": {
 		"ft": 32768,
 		"iS": 2360,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/login-header-background.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/login-header-background.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/logo-icon-v2.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/logo-icon-v2.png": {
 		"ft": 32768,
 		"iS": 747,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/logo-icon-v2.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/logo-icon-v2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/logo-icon.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/logo-icon.png": {
 		"ft": 32768,
 		"iS": 966,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/logo-icon.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/logo-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/made-with-invision.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/made-with-invision.png": {
 		"ft": 32768,
 		"iS": 6008,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/made-with-invision.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/made-with-invision.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/marker.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/marker.png": {
 		"ft": 32768,
 		"iS": 2563,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/marker.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/marker.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/mobile-logo-icon.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/mobile-logo-icon.png": {
 		"ft": 32768,
 		"iS": 1229,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/mobile-logo-icon.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/mobile-logo-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/mobile-logo-icon@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/mobile-logo-icon@2x.png": {
 		"ft": 32768,
 		"iS": 2264,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/mobile-logo-icon@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/mobile-logo-icon@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/mobile.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/mobile.png": {
 		"ft": 32768,
 		"iS": 129,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/mobile.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/mobile.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/modal-share-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/modal-share-sprite.png": {
 		"ft": 32768,
 		"iS": 1864,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/modal-share-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/modal-share-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/modal-share-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/modal-share-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 2022,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/modal-share-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/modal-share-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/preview-arrow-next.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/preview-arrow-next.png": {
 		"ft": 32768,
 		"iS": 1537,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/preview-arrow-next.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/preview-arrow-next.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/preview-arrow-prev.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/preview-arrow-prev.png": {
 		"ft": 32768,
 		"iS": 1530,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/preview-arrow-prev.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/preview-arrow-prev.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/screens-search.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/screens-search.png": {
 		"ft": 32768,
 		"iS": 242,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/screens-search.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/screens-search.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/scrollbar-mid.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/scrollbar-mid.png": {
 		"ft": 32768,
 		"iS": 80,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/scrollbar-mid.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/scrollbar-mid.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-lite-sprites.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-lite-sprites.png": {
 		"ft": 32768,
 		"iS": 1332,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-lite-sprites.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-lite-sprites.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-lite-sprites@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-lite-sprites@2x.png": {
 		"ft": 32768,
 		"iS": 2671,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-lite-sprites@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-lite-sprites@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-loading-sprites.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-loading-sprites.png": {
 		"ft": 32768,
 		"iS": 7032,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-loading-sprites.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-loading-sprites.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-loading-sprites@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-loading-sprites@2x.png": {
 		"ft": 32768,
 		"iS": 16264,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-loading-sprites@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-loading-sprites@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-toolbar-sprites.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-toolbar-sprites.png": {
 		"ft": 32768,
 		"iS": 688,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-toolbar-sprites.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-toolbar-sprites.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-toolbar-sprites@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-toolbar-sprites@2x.png": {
 		"ft": 32768,
 		"iS": 1039,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/share-toolbar-sprites@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/share-toolbar-sprites@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sketch-viewer-close.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sketch-viewer-close.png": {
 		"ft": 32768,
 		"iS": 2080,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sketch-viewer-close.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sketch-viewer-close.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sketch_tools.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sketch_tools.png": {
 		"ft": 32768,
 		"iS": 3301,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sketch_tools.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sketch_tools.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/slideshow-arrow-left.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/slideshow-arrow-left.png": {
 		"ft": 32768,
 		"iS": 142,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/slideshow-arrow-left.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/slideshow-arrow-left.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/slideshow-arrow-right.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/slideshow-arrow-right.png": {
 		"ft": 32768,
 		"iS": 143,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/slideshow-arrow-right.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/slideshow-arrow-right.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprite1-share.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprite1-share.png": {
 		"ft": 32768,
 		"iS": 84265,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprite1-share.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprite1-share.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/back@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/back@2x.png": {
 		"ft": 32768,
 		"iS": 417,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/back@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/back@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close-hover@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close-hover@2x.png": {
 		"ft": 32768,
 		"iS": 571,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close-hover@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close-hover@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close@2x.png": {
 		"ft": 32768,
 		"iS": 500,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/full-screen-close@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/logo-gray-letters@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/logo-gray-letters@2x.png": {
 		"ft": 32768,
 		"iS": 2217,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/modal-share/logo-gray-letters@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/modal-share/logo-gray-letters@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-context-arrow_V2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-context-arrow_V2@2x.png": {
 		"ft": 32768,
 		"iS": 3538,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-context-arrow_V2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-context-arrow_V2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-new@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-new@2x.png": {
 		"ft": 32768,
 		"iS": 3116,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-new@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-new@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-on_v2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-on_v2@2x.png": {
 		"ft": 32768,
 		"iS": 604,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-on_v2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment-on_v2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment@2x.png": {
 		"ft": 32768,
 		"iS": 2892,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment_v2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment_v2@2x.png": {
 		"ft": 32768,
 		"iS": 451,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment_v2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comment_v2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-bubble@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-bubble@2x.png": {
 		"ft": 32768,
 		"iS": 658,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-bubble@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-bubble@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-close@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-close@2x.png": {
 		"ft": 32768,
 		"iS": 191,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-close@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-button-close@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-default@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-default@2x.png": {
 		"ft": 32768,
 		"iS": 372,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-default@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-default@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-new@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-new@2x.png": {
 		"ft": 32768,
 		"iS": 311,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-new@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-new@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-old@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-old@2x.png": {
 		"ft": 32768,
 		"iS": 265,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-old@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-old@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-tooltip-close@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-tooltip-close@2x.png": {
 		"ft": 32768,
 		"iS": 193,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-tooltip-close@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/comments-tooltip-close@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/device-hover@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/device-hover@2x.png": {
 		"ft": 32768,
 		"iS": 301,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/device-hover@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/device-hover@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/device@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/device@2x.png": {
 		"ft": 32768,
 		"iS": 302,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/device@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/device@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/device_v2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/device_v2@2x.png": {
 		"ft": 32768,
 		"iS": 309,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/device_v2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/device_v2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect-back_v2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect-back_v2@2x.png": {
 		"ft": 32768,
 		"iS": 1374,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect-back_v2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect-back_v2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect_v2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect_v2@2x.png": {
 		"ft": 32768,
 		"iS": 526,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect_v2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/inspect_v2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu-close@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu-close@2x.png": {
 		"ft": 32768,
 		"iS": 208,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu-close@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu-close@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu@2x.png": {
 		"ft": 32768,
 		"iS": 207,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu_v2@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu_v2@2x.png": {
 		"ft": 32768,
 		"iS": 385,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu_v2@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/sprites/toolbar/menu_v2@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/toolbar-sprite.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/toolbar-sprite.png": {
 		"ft": 32768,
 		"iS": 5058,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/toolbar-sprite.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/toolbar-sprite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/toolbar-sprite@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/toolbar-sprite@2x.png": {
 		"ft": 32768,
 		"iS": 9179,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/toolbar-sprite@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/toolbar-sprite@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/apps/share/img/transparent-img.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/apps/share/img/transparent-img.png": {
 		"ft": 32768,
 		"iS": 95,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/apps/share/img/transparent-img.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/apps/share/img/transparent-img.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Bookings Booking page@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Bookings Booking page@2x.jpg": {
 		"ft": 16384,
 		"iS": 1937465,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Bookings Booking page@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Bookings Booking page@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Bookings New booking@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Bookings New booking@2x.jpg": {
 		"ft": 16384,
 		"iS": 1357028,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Bookings New booking@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Bookings New booking@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Bookings Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Bookings Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 1692347,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Bookings Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Bookings Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Bookings Overview - filters@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Bookings Overview - filters@2x.jpg": {
 		"ft": 16384,
 		"iS": 1761221,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Bookings Overview - filters@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Bookings Overview - filters@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Calendar Overview - month@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Calendar Overview - month@2x.jpg": {
 		"ft": 16384,
 		"iS": 642048,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Calendar Overview - month@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Calendar Overview - month@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Calendar Overview - week@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Calendar Overview - week@2x.jpg": {
 		"ft": 16384,
 		"iS": 660374,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Calendar Overview - week@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Calendar Overview - week@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Contacts Promoters list - alt@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Contacts Promoters list - alt@2x.jpg": {
 		"ft": 16384,
 		"iS": 893993,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Contacts Promoters list - alt@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Contacts Promoters list - alt@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Contracts Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Contracts Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 1009647,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Contracts Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Contracts Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Create contract@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/Create contract@2x.png": {
 		"ft": 32768,
 		"iS": 557996,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Create contract@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Create contract@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Create invoice@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/Create invoice@2x.png": {
 		"ft": 32768,
 		"iS": 890355,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Create invoice@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Create invoice@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Dashboard@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Dashboard@2x.jpg": {
 		"ft": 16384,
 		"iS": 1238726,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Dashboard@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Dashboard@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Flights First step - filling@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Flights First step - filling@2x.jpg": {
 		"ft": 16384,
 		"iS": 565710,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Flights First step - filling@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Flights First step - filling@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Flights First step@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Flights First step@2x.jpg": {
 		"ft": 16384,
 		"iS": 489080,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Flights First step@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Flights First step@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Flights Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Flights Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 1214320,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Flights Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Flights Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Flights Second step@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Flights Second step@2x.jpg": {
 		"ft": 16384,
 		"iS": 899856,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Flights Second step@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Flights Second step@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Flights Third step@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Flights Third step@2x.jpg": {
 		"ft": 16384,
 		"iS": 580937,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Flights Third step@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Flights Third step@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans-bold.woff": {
+	"/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans-bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans-bold.woff",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans-bold.woff",
 		"oF": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans-light.woff": {
+	"/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans-light.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans-light.woff",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans-light.woff",
 		"oF": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans-semibold.woff": {
+	"/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans-semibold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans-semibold.woff",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans-semibold.woff",
 		"oF": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans.woff": {
+	"/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/fonts/open_sans/OpenSans.woff",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/fonts/open_sans/OpenSans.woff",
 		"oF": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/html5shim/html5.js": {
+	"/cases-simple/lynup/desktop-prototype/assets/html5shim/html5.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/html5shim/html5-min.js",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/html5shim/html5-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Invocies Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Invocies Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 994741,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Invocies Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Invocies Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min-min.css": {
+	"/cases-simple/lynup/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min-min-min.css",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min.css": {
+	"/cases-simple/lynup/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min-min.css",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/jquery-ui-1.9.2.custom/css/no-theme/jquery-ui-1.9.2.custom.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/json2/json2.js": {
+	"/cases-simple/lynup/desktop-prototype/assets/json2/json2.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/json2/json2-min.js",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/json2/json2-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/react/es5-sham.min.js": {
+	"/cases-simple/lynup/desktop-prototype/assets/react/es5-sham.min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/react/es5-sham.min-min.js",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/react/es5-sham.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/react/es5-shim.min.js": {
+	"/cases-simple/lynup/desktop-prototype/assets/react/es5-shim.min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/react/es5-shim.min-min.js",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/react/es5-shim.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/scripts.js": {
+	"/cases-simple/lynup/desktop-prototype/assets/scripts.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/scripts-min.js",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/scripts-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Settings Agency@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Settings Agency@2x.jpg": {
 		"ft": 16384,
 		"iS": 351358,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Settings Agency@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Settings Agency@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Settings Artists@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Settings Artists@2x.jpg": {
 		"ft": 16384,
 		"iS": 674766,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Settings Artists@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Settings Artists@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Settings Calendar@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Settings Calendar@2x.jpg": {
 		"ft": 16384,
 		"iS": 332452,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Settings Calendar@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Settings Calendar@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Settings Templates@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Settings Templates@2x.jpg": {
 		"ft": 16384,
 		"iS": 490265,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Settings Templates@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Settings Templates@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/Table view@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/Table view@2x.jpg": {
 		"ft": 16384,
 		"iS": 1062723,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/Table view@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/Table view@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_3@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_3@2x.jpg": {
 		"ft": 16384,
 		"iS": 6638,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_3@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_3@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings Booking page@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings Booking page@2x.jpg": {
 		"ft": 16384,
 		"iS": 12713,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings Booking page@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings Booking page@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings New booking@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings New booking@2x.jpg": {
 		"ft": 16384,
 		"iS": 9133,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings New booking@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings New booking@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 26827,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings Overview - filters@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings Overview - filters@2x.jpg": {
 		"ft": 16384,
 		"iS": 16739,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Bookings Overview - filters@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Bookings Overview - filters@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Calendar Overview - month@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Calendar Overview - month@2x.jpg": {
 		"ft": 16384,
 		"iS": 13330,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Calendar Overview - month@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Calendar Overview - month@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Calendar Overview - week@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Calendar Overview - week@2x.jpg": {
 		"ft": 16384,
 		"iS": 11962,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Calendar Overview - week@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Calendar Overview - week@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Contacts Promoters list - alt@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Contacts Promoters list - alt@2x.jpg": {
 		"ft": 16384,
 		"iS": 14771,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Contacts Promoters list - alt@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Contacts Promoters list - alt@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Contracts Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Contracts Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 19671,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Contracts Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Contracts Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Create contract@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Create contract@2x.png": {
 		"ft": 32768,
 		"iS": 12449,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Create contract@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Create contract@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Create invoice@2x.png": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Create invoice@2x.png": {
 		"ft": 32768,
 		"iS": 21805,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Create invoice@2x.png",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Create invoice@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Dashboard@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Dashboard@2x.jpg": {
 		"ft": 16384,
 		"iS": 23188,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Dashboard@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Dashboard@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Flights First step - filling@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Flights First step - filling@2x.jpg": {
 		"ft": 16384,
 		"iS": 6276,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Flights First step - filling@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Flights First step - filling@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Flights First step@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Flights First step@2x.jpg": {
 		"ft": 16384,
 		"iS": 5324,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Flights First step@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Flights First step@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Flights Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Flights Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 14979,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Flights Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Flights Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Flights Second step@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Flights Second step@2x.jpg": {
 		"ft": 16384,
 		"iS": 10466,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Flights Second step@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Flights Second step@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Flights Third step@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Flights Third step@2x.jpg": {
 		"ft": 16384,
 		"iS": 6240,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Flights Third step@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Flights Third step@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Invocies Overview - basic@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Invocies Overview - basic@2x.jpg": {
 		"ft": 16384,
 		"iS": 19315,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Invocies Overview - basic@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Invocies Overview - basic@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Agency@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Agency@2x.jpg": {
 		"ft": 16384,
 		"iS": 6308,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Agency@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Agency@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Artists@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Artists@2x.jpg": {
 		"ft": 16384,
 		"iS": 7677,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Artists@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Artists@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Calendar@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Calendar@2x.jpg": {
 		"ft": 16384,
 		"iS": 3604,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Calendar@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Calendar@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Templates@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Templates@2x.jpg": {
 		"ft": 16384,
 		"iS": 5437,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Settings Templates@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Settings Templates@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/assets/thumb_Table view@2x.jpg": {
+	"/cases-simple/lynup/desktop-prototype/assets/thumb_Table view@2x.jpg": {
 		"ft": 16384,
 		"iS": 19272,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/assets/thumb_Table view@2x.jpg",
+		"oAP": "/cases-simple/lynup/desktop-prototype/assets/thumb_Table view@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases-simple/lynap/desktop-prototype/index.html": {
+	"/cases-simple/lynup/desktop-prototype/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/desktop-prototype/index.html",
+		"oAP": "/cases-simple/lynup/desktop-prototype/index.html",
 		"oF": 0
 		},
-	"/cases-simple/lynap/index.html": {
+	"/cases-simple/lynup/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/cases-simple/lynap/index.html",
+		"oAP": "/cases-simple/lynup/index.html",
 		"oF": 0
 		},
 	"/cases-simple/namepal/desktop-prototype/assets/account@2x.png": {
@@ -44722,81 +44722,81 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/desktop/about-us-cropped.jpg": {
+	"/cases/national-bank-of-ukraine/cover-image.jpg": {
 		"ft": 16384,
-		"iS": 746903,
+		"iS": 168587,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/about-us-cropped.jpg",
+		"oAP": "/cases/national-bank-of-ukraine/cover-image.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/desktop/blogpost-cropped.png": {
-		"ft": 32768,
-		"iS": 883454,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/blogpost-cropped.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/desktop/brands-cropped.png": {
-		"ft": 32768,
-		"iS": 137490,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/brands-cropped.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/desktop/cart-cropped.jpg": {
+	"/cases/national-bank-of-ukraine/desktop/404.jpg": {
 		"ft": 16384,
-		"iS": 394934,
+		"iS": 95429,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/cart-cropped.jpg",
+		"oAP": "/cases/national-bank-of-ukraine/desktop/404.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/desktop/cart-popover-cropped.png": {
-		"ft": 32768,
-		"iS": 624141,
+	"/cases/national-bank-of-ukraine/desktop/blogpost.jpg": {
+		"ft": 16384,
+		"iS": 694177,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/cart-popover-cropped.png",
+		"oAP": "/cases/national-bank-of-ukraine/desktop/blogpost.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/cart.png": {
+		"ft": 32768,
+		"iS": 256157,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/cart.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/desktop/category-cropped.png": {
-		"ft": 32768,
-		"iS": 305178,
+	"/cases/national-bank-of-ukraine/desktop/catalog.jpg": {
+		"ft": 16384,
+		"iS": 643387,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/category-cropped.png",
+		"oAP": "/cases/national-bank-of-ukraine/desktop/catalog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/faq.png": {
+		"ft": 32768,
+		"iS": 128291,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/faq.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/desktop/catering-hub-cropped.png": {
-		"ft": 32768,
-		"iS": 1518314,
+	"/cases/national-bank-of-ukraine/desktop/home-cropped.jpg": {
+		"ft": 16384,
+		"iS": 633992,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/catering-hub-cropped.png",
+		"oAP": "/cases/national-bank-of-ukraine/desktop/home-cropped.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/cases/national-bank-of-ukraine/desktop/home.jpg": {
@@ -44810,59 +44810,48 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/desktop/prod-cropped.png": {
-		"ft": 32768,
-		"iS": 311645,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/prod-cropped.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/desktop/prod-scrolled-cropped.png": {
-		"ft": 32768,
-		"iS": 236240,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/prod-scrolled-cropped.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/desktop/quote-cropped.png": {
-		"ft": 32768,
-		"iS": 136927,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/quote-cropped.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/desktop/search-cropped.png": {
-		"ft": 32768,
-		"iS": 384130,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/search-cropped.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/desktop/subcategory.jpg": {
+	"/cases/national-bank-of-ukraine/desktop/order-info.jpg": {
 		"ft": 16384,
-		"iS": 717178,
+		"iS": 305294,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/desktop/subcategory.jpg",
+		"oAP": "/cases/national-bank-of-ukraine/desktop/order-info.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/orders.jpg": {
+		"ft": 16384,
+		"iS": 86609,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/orders.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/prod-card-ipad.jpg": {
+		"ft": 16384,
+		"iS": 222092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/prod-card-ipad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/desktop/prod-card.png": {
+		"ft": 32768,
+		"iS": 447346,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/desktop/prod-card.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/cases/national-bank-of-ukraine/index.html": {
@@ -44873,31 +44862,9 @@
 		"oAP": "/cases/national-bank-of-ukraine/index.html",
 		"oF": 0
 		},
-	"/cases/national-bank-of-ukraine/iphone/cart.jpg": {
-		"ft": 16384,
-		"iS": 80971,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/iphone/cart.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/iphone/catalog-sort.jpg": {
-		"ft": 16384,
-		"iS": 67723,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/iphone/catalog-sort.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/cases/national-bank-of-ukraine/iphone/catalog.jpg": {
 		"ft": 16384,
-		"iS": 94167,
+		"iS": 90075,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/cases/national-bank-of-ukraine/iphone/catalog.jpg",
@@ -44906,56 +44873,45 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/iphone/home-1.jpg": {
+	"/cases/national-bank-of-ukraine/iphone/homepage.jpg": {
 		"ft": 16384,
-		"iS": 129073,
+		"iS": 107642,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/iphone/home-1.jpg",
+		"oAP": "/cases/national-bank-of-ukraine/iphone/homepage.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/iphone/home-2.jpg": {
+	"/cases/national-bank-of-ukraine/iphone/nav.jpg": {
 		"ft": 16384,
-		"iS": 100562,
+		"iS": 102001,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/iphone/home-2.jpg",
+		"oAP": "/cases/national-bank-of-ukraine/iphone/nav.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/iphone/mobile-menu.jpg": {
+	"/cases/national-bank-of-ukraine/iphone/prod-page.jpg": {
 		"ft": 16384,
-		"iS": 87535,
+		"iS": 148892,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/iphone/mobile-menu.jpg",
+		"oAP": "/cases/national-bank-of-ukraine/iphone/prod-page.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/cases/national-bank-of-ukraine/iphone/prod-page-1.jpg": {
+	"/cases/national-bank-of-ukraine/iphone/sign-in.jpg": {
 		"ft": 16384,
-		"iS": 90500,
+		"iS": 71705,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/iphone/prod-page-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/cases/national-bank-of-ukraine/iphone/prod-page-2.jpg": {
-		"ft": 16384,
-		"iS": 85336,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/cases/national-bank-of-ukraine/iphone/prod-page-2.jpg",
+		"oAP": "/cases/national-bank-of-ukraine/iphone/sign-in.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -44967,6 +44923,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/cases/national-bank-of-ukraine/og-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/ui-dark.jpg": {
+		"ft": 16384,
+		"iS": 315920,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/ui-dark.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/cases/national-bank-of-ukraine/ui-light.jpg": {
+		"ft": 16384,
+		"iS": 314289,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/cases/national-bank-of-ukraine/ui-light.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
